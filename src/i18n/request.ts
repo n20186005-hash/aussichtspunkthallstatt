@@ -122,23 +122,28 @@ function interceptAndFixData(locale: string, originalData: any) {
     // Override Transportation (was wrongly mapped to Portugal)
     if (data.transport) {
       data.transport.airportDesc = locale === 'zh' 
-        ? "前往哈尔施塔特通常需要飞往萨尔茨堡机场 (SZG) 或维也纳机场 (VIE)。"
-        : "Usually requires flying to Salzburg Airport (SZG) or Vienna Airport (VIE).";
+        ? "距离最近的机场为萨尔茨堡机场 (SZG)（约80公里，车程1.5小时）或维也纳国际机场 (VIE)（约290公里，车程3.5小时）。"
+        : "The nearest airports are Salzburg Airport (SZG) (approx. 80km, 1.5h drive) and Vienna International Airport (VIE) (approx. 290km, 3.5h drive).";
+      
       data.transport.selfDriveDesc = locale === 'zh' 
-        ? "经典的公共交通路线是乘坐火车到达哈尔施塔特火车站 (Hallstatt Bahnhof)，随后换乘渡轮 (Ferry) 跨湖进入小镇。"
-        : "The classic route is taking a train to Hallstatt Bahnhof, then transferring to a ferry across the lake into the town.";
+        ? "导航至哈尔施塔特镇外公共停车场（P1或P2）。小镇核心区禁止非本地居民车辆驶入。停好车后，沿湖畔主街（Seestraße）向北步行约15分钟即可到达观景点。"
+        : "Navigate to public parking lots P1 or P2 outside the town. Non-resident vehicles are prohibited in the town center. After parking, walk north along the lakeside street (Seestraße) for about 15 minutes to reach the viewpoint.";
+      
       data.transport.busDesc = locale === 'zh'
-        ? "可从萨尔茨堡搭乘 150 路公交车至巴德伊舍 (Bad Ischl)，再换乘火车或公交车抵达哈尔施塔特。"
-        : "You can take bus 150 from Salzburg to Bad Ischl, then transfer to a train or bus to Hallstatt.";
+        ? "【经典路线】从萨尔茨堡搭乘 150 路公交车至巴德伊舍 (Bad Ischl)，换乘火车至哈尔施塔特火车站 (Hallstatt Bahnhof)，最后乘坐渡轮 (Stefanie轮船) 跨湖抵达小镇码头。下船后向北（左）步行5分钟即到。"
+        : "【Classic Route】Take bus 150 from Salzburg to Bad Ischl, transfer to a train to Hallstatt Bahnhof, and finally take the ferry (Stefanie) across the lake to the town dock. Walk north (left) for 5 minutes after disembarking.";
+      
       data.transport.intercityDesc = locale === 'zh'
-        ? "小镇内部非常紧凑，所有主要景点（包括观景点）均可通过步行轻松抵达。"
-        : "The town is very compact, and all main attractions (including the viewpoint) are easily accessible on foot.";
+        ? "如果是自驾游客，也可将车停在湖对岸的上特劳恩 (Obertraun)，然后乘坐巴士或渡轮前往哈尔施塔特，避开停车难问题。"
+        : "If driving, you can also park in Obertraun across the lake and take a bus or ferry to Hallstatt to avoid parking difficulties.";
+      
       data.transport.cyclingDesc = locale === 'zh'
-        ? "环哈尔施塔特湖有优美的自行车道，但镇中心核心区域由于人流密集，建议推车步行。"
-        : "There are beautiful cycling paths around Lake Hallstatt, but walking is recommended in the crowded town center.";
+        ? "小镇到达观景点的道路狭窄，游客众多。若骑行前往，建议在进入镇中心后推行，以免发生危险。"
+        : "The road to the viewpoint is narrow and crowded. If cycling, please dismount and push your bike in the town center to ensure safety.";
+      
       data.transport.tipsDesc = locale === 'zh'
-        ? "哈尔施塔特是萨尔茨卡默古特湖区的核心，建议与圣沃尔夫冈 (St. Wolfgang)、巴德伊舍等地结合游览。"
-        : "Hallstatt is the heart of the Salzkammergut lake district. We recommend visiting along with St. Wolfgang and Bad Ischl.";
+        ? "观景点位于 Gosaumühlstraße 67 附近，距离小镇中心的集市广场仅需步行约5-10分钟。沿着湖边一直往北走，当看到路边聚集了许多拍照的游客时，便到了经典的“明信片机位”。"
+        : "The viewpoint is located near Gosaumühlstraße 67, just a 5-10 minute walk from the Market Square. Keep walking north along the lake, and when you see a crowd of tourists taking photos by the road, you have reached the classic 'postcard viewpoint'.";
     }
     
     if (data.route) {
