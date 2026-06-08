@@ -15,23 +15,20 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://jardimluisdecamoes.com';
+  const baseUrl = 'https://aussichtspunkthallstatt.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
-  const ptUrl = `${baseUrl}/pt`;
-  const mwlUrl = `${baseUrl}/mwl`;
+  const deUrl = `${baseUrl}/de`;
   
   let selfUrl = zhUrl;
   if (locale === 'en') selfUrl = enUrl;
-  else if (locale === 'pt') selfUrl = ptUrl;
-  else if (locale === 'mwl') selfUrl = mwlUrl;
+  else if (locale === 'de') selfUrl = deUrl;
 
   const localeMap: Record<string, string> = {
     'zh': 'zh_CN',
     'en': 'en_US',
-    'pt': 'pt_PT',
-    'mwl': 'mwl',
+    'de': 'de_AT',
   };
 
   return {
@@ -42,8 +39,7 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'pt': ptUrl,
-        'mwl': mwlUrl,
+        'de': deUrl,
         'x-default': zhUrl,
       } as Record<string, string>,
     },
@@ -51,7 +47,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Jardim Luís de Camões",
+      siteName: "Panoramic Viewpoint - Hallstatt",
       locale: localeMap[locale] || 'zh_CN',
       type: 'website',
     },
@@ -77,8 +73,7 @@ export default async function LocaleLayout({
   const langMap: Record<string, string> = {
     'zh': 'zh-CN',
     'en': 'en',
-    'pt': 'pt',
-    'mwl': 'mwl',
+    'de': 'de',
   };
 
   return (
