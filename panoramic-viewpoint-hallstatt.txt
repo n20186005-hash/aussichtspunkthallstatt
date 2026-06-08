@@ -1,0 +1,196 @@
+
+我们网站是
+
+检查下有没有错误
+
+
+
+页头 错误
+精彩照片 点击 显示全部照片 没反应 要能显示全部图片
+
+关于 Monsaraz Castle
+Monsaraz Castle 是葡萄牙最珍贵的历史遗产之一。
+要加上他受谁管理
+
+删除
+电话
+
+-
+
+交通方式
+完善景点具体路线怎么走
+新增机场出发路线
+
+游客评价
+在现有评价基础上新增到8条，不要捏造评价直接从https://maps.app.goo.gl/E6sARLKkqxeeVSDH7 提取
+
+
+交通指南
+显示出来的图形位置是错的 位置应该是
+
+J
+
+单景点买.com域名推荐
+
+按景点信息重新检查一遍现在网站数据是错的
+
+
+
+
+
+
+### 表单填写内容
+
+国家/地区*：
+
+地址*：
+
+城市*：
+
+省/自治区/直辖市*：
+
+邮政编码*：
+
+
+
+国家/地区：
+地址：
+城市：
+省/自治区/直辖市：
+邮政编码：
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 哈尔施塔特观景点 Panoramic Viewpoint - Hallstatt】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+Panoramic Viewpoint - Hallstatt
+
+哈尔施塔特观景点（奥地利）
+Aussichtspunkt Hallstatt
+4.8(13,868)
+景点
+https://maps.app.goo.gl/uRxeqSp92vqTwqrH7
+
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\奥地利\panoramic-viewpoint-hallstatt\public\gallery\panoramic-viewpoint-hallstatt (1).jpg
+
+删除原先友情链接，新增以下友情链接
+
+奥地利联邦政府
+https://www.oesterreich.gv.at/de
+上奥地利州政府
+https://www.land-oberoesterreich.gv.at/
+哈尔施塔特镇政府官方
+https://www.hallstatt.ooe.gv.at/
+达赫施泰因-萨尔茨卡默古特大区旅游局
+https://dachstein.salzkammergut.at/
+奥地利联邦文物保护局
+https://www.bda.gv.at/
+
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/uRxeqSp92vqTwqrH7
+页面一共四个链接每一个都需要修改
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+删除 探索更多 板块
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/uRxeqSp92vqTwqrH7
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/uRxeqSp92vqTwqrH7
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/uRxeqSp92vqTwqrH7
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/uRxeqSp92vqTwqrH7
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+新增
+奥地利德语 (Austrian German)
+
+生成一个文件忽略不需要上传的文件
+
+
+
+检查下以上友情链接是否正确
+
+哈尔施塔特观景点（奥地利）
+Aussichtspunkt Hallstatt
+4.8(13,868)
+景点
+https://maps.app.goo.gl/uRxeqSp92vqTwqrH7
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局、出入境管理、的网站友情链接，确保全部具备纯正的官方政府背景：
+
+
+
+奥地利联邦政府
+https://www.oesterreich.gv.at/de
+上奥地利州政府
+https://www.land-oberoesterreich.gv.at/
+哈尔施塔特镇政府官方
+https://www.hallstatt.ooe.gv.at/
+达赫施泰因-萨尔茨卡默古特大区旅游局
+https://dachstein.salzkammergut.at/
+奥地利联邦文物保护局
+https://www.bda.gv.at/
+
+
+
+
+1. 国家级实体 (National Level)
+奥地利联邦政府官方数字门户 (oesterreich.gv.at)
+奥地利联邦政府的最高级别在线服务入口，提供出入境规定、公共服务、国家宏观法律法规以及针对外国旅客的指导。
+
+官方链接：https://www.oesterreich.gv.at
+
+属性认证：.gv.at 后缀为奥地利专属的政府机构（Government）顶级域名。
+
+2. 州/大区级实体 (State/Regional Level)
+上奥地利州政府官方网站 (Land Oberösterreich)
+哈尔施塔特在行政区划上隶属于上奥地利州（Oberösterreich）。此平台提供全州的行政决议、区域发展规划、基础设施建设限制以及文旅产业的顶层政策。
+
+官方链接：https://www.land-oberoesterreich.gv.at
+
+属性认证：上奥地利州最高行政机构备案，完全采用政府 .gv.at 架构。
+
+3. 市/镇级实体 (Municipal Level)
+哈尔施塔特镇政府官方网站 (Marktgemeinde Hallstatt)
+管理哈尔施塔特本地最直接的市政机构，负责发布镇级法令、交通管制措施（如针对进入核心景观区域的旅游大巴限流政策）、本地车位以及居民区保护条例。
+
+官方链接：https://www.hallstatt.ooe.gv.at
+
+属性认证：.ooe.gv.at 是分配给上奥地利州（OOE）辖下基层市镇政府的受限域名。
+
+4. 地方区域管理机构 (Local Site Management)
+达赫施泰因-萨尔茨卡默古特大区旅游局 (Tourismusverband Inneres Salzkammergut)
+依奥地利相关公共法律设立的专职公共管理机构，直接统筹哈尔施塔特及周边景区的游客流转、大巴配额预约系统（Slot-System）、基础设施维护及环境承载力调控。
+
+官方链接：https://dachstein.salzkammergut.at
+
+属性认证：该机构具备辖区内指定的官方文旅管辖权，是发布哈尔施塔特观景点实时动态管理数据的最权威渠道。
+
+5. 专业遗产保护数据库 (Heritage Conservation Database)
+奥地利联邦文物保护局 (Bundesdenkmalamt, BDA)
+受奥地利联邦政府直接领导的法定文化遗产保护最高机构，掌握全奥地利所有注册古迹和考古代址的数据库。该局监管并确立了“哈尔施塔特-达赫施泰因/萨尔茨卡默古特”世界遗产的文保边界、物理风貌保护红线以及官方学术档案。
+
+官方链接：https://www.bda.gv.at
+
+属性认证：依据奥地利《文物保护法》(DMSG) 设立的国家级权威数据库与最高执法执行机构。
