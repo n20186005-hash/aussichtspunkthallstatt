@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Jardim Luís de Camões | Urban Memorial Garden in Leiria, Portugal",
-    "description": "Explore the complete guide to Jardim Luís de Camões in Leiria, Portugal. Learn about this memorial garden, its central statue, and nearby attractions like Leiria Castle."
+    "title": "Panoramic Viewpoint - Hallstatt, Austria: Visitor Guide & Location",
+    "description": "Panoramic Viewpoint - Hallstatt is the classic postcard viewpoint in Hallstatt, Austria, overlooking Lake Hallstatt. Location map & best time to visit."
   },
   "header": {
     "home": "Home",
@@ -12,266 +12,352 @@
   },
   "hero": {
     "title": "Panoramic Viewpoint - Hallstatt",
-    "subtitle": "Aussichtspunkt Hallstatt",
+    "subtitle": "The classic postcard view of Hallstatt · Salzkammergut, Austria",
     "rating": "4.8",
-    "reviewCount": "13,868",
+    "reviewCount": "14,323",
     "hours": "Open 24 Hours",
     "openMaps": "View Location"
   },
   "intro": {
-    "title": "Explore Jardim Luís de Camões",
-    "description": "Jardim Luís de Camões is a small urban memorial garden located in the heart of Leiria, adjacent to the Leiria Castle and the old town. It is a popular spot for locals to relax and take a walk. At the center of the garden stands a bronze statue honoring Portugal's greatest poet, Luís de Camões, surrounded by manicured shrubs, flowers, benches, and a small fountain, offering a tranquil environment perfect for a brief rest.",
+    "title": "About Panoramic Viewpoint - Hallstatt",
+    "breadcrumb": [
+      "Panoramic Viewpoint - Hallstatt",
+      "Hallstatt",
+      "Upper Austria",
+      "Austria"
+    ],
+    "description": "Welcome to Panoramic Viewpoint - Hallstatt, widely recognized as the town's classic Aussichtspunkt Hallstatt viewing point. Located along the lakeside road at Gosaumühlstraße 67 in Hallstatt, Upper Austria, Austria, this lookout offers the world-famous postcard panorama across Lake Hallstatt, framed by the Gothic Evangelical Parish Church spire, terraced timber houses and the Dachstein Alps. To be clear: this page refers to exactly this classic lakeside postcard viewpoint at Gosaumühlstraße 67; the Salzwelten salt-mine Skywalk platform high above the town is a separate attraction and is not covered here.",
+    "nearbyText": "When visiting Panoramic Viewpoint - Hallstatt, you can easily combine the lookout with surrounding landmarks and points of interest, including the Market Square (Marktplatz) and the Charnel House in the old town, as well as the Salzwelten Hallstatt salt mine with its Skywalk viewing platform across the bay.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
-        "The garden is an open urban park with flat terrain and comfortable walking paths",
-        "Equipped with plenty of benches and shade, making it an ideal resting place before or after visiting nearby attractions like Leiria Castle",
-        "Free and open all day, you can visit anytime for a walk or to admire the Camões statue",
-        "Located right next to Leiria's old town, with numerous cafes and restaurants nearby"
+        "Best shooting time: morning light offers clear reflections; afternoon and evening tend to be backlit.",
+        "The viewing spot is very small and sits right next to the road, so watch the traffic at all times.",
+        "Respect resident privacy: do not make noise, enter private property or fly drones in the residential area.",
+        "Arrive before 9:00 am or after 5:00 pm to avoid tour-bus crowds at this compact stop."
       ]
     },
     "alsoKnownAs": {
-      "title": "Garden Highlights",
+      "title": "Why It Is Famous",
       "items": [
-        "Memorial Significance: Features a central bronze statue dedicated to the great Portuguese poet Luís de Camões",
-        "Beautiful Environment: A harmonious blend of manicured green shrubs, seasonal flowers, and a small fountain",
-        "Central Location: Situated in downtown Leiria, just a 5-minute walk from the historic Castelo de Leiria",
-        "Urban Oasis: Provides a quiet, relaxing space for both citizens and tourists"
+        "Postcard View: the most photographed angle of Hallstatt, seen in countless travel features.",
+        "World Heritage: lies at the heart of the Hallstatt-Dachstein/Salzkammergut UNESCO Cultural Landscape (1997).",
+        "Lake & Alps: sweeping views over Lake Hallstatt towards the Dachstein massif.",
+        "Easy to reach: only a short, flat walk from the Market Square and the ferry landing."
       ]
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Jardim Luís de Camões",
+    "title": "Discover Hallstatt",
     "sections": [
       {
         "id": "history",
-        "title": "Memorial Significance",
-        "content": "This garden was established by the city of Leiria as an urban space to pay tribute to the Portuguese literary giant Luís de Camões, with his bronze statue acting as the centerpiece."
+        "title": "World Heritage",
+        "content": "The viewpoint looks out over the Hallstatt-Dachstein/Salzkammergut Cultural Landscape, inscribed on the UNESCO World Heritage List in 1997. The settlement sits on one of Europe's oldest salt-trading routes, with 7,000 years of mining history beneath the surrounding mountains."
       },
       {
         "id": "architecture",
-        "title": "Landscaping",
-        "content": "The garden features a delicate design with neatly trimmed greenery, a classical-style fountain, and relaxing benches that blend harmoniously with the surrounding urban architecture."
+        "title": "Traditional Architecture",
+        "content": "From the northern shore you see Hallstatt's timber-fronted houses climbing the mountainside, crowned by the spire of the Evangelical Parish Church. The compact old town is car-free, with painted facades and narrow lanes that are part of the protected heritage ensemble."
       },
       {
         "id": "experience",
-        "title": "Relaxing Experience",
-        "content": "It is the perfect place to unwind after visiting the majestic Leiria Castle. You can sit on a bench, listen to the fountain, and experience the slow-paced lifestyle of Leiria."
+        "title": "Seasons & Light",
+        "content": "In calm weather the lake mirrors the church spire and the peaks - best enjoyed in the early morning. Autumn colours and winter snow transform the scene, while summer brings the largest crowds to this famous viewpoint."
+      },
+      {
+        "id": "culture",
+        "title": "Salt, Name & Prehistory",
+        "content": "Hallstatt takes its name from the Old High German word 'hall' meaning salt – for centuries the 'white gold' of the region. After graves were discovered in 1846 in the high valley above the town, archaeologists named Europe's oldest Iron Age culture after this site: the Hallstatt culture (c. 800–450 BC)."
       }
     ]
   },
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Alte Brücke Heidelberg",
+    "officialNameValue": "Panoramic Viewpoint - Hallstatt",
     "type": "Attraction Type",
-    "typeValue": "景点",
+    "typeValue": "Scenic Viewpoint / Tourist Attraction",
     "country": "Country",
-    "countryValue": "Germany",
+    "countryValue": "Austria",
     "city": "City",
-    "cityValue": "Heidelberg",
+    "cityValue": "Hallstatt",
     "googleRating": "Google Rating",
+    "phone": "Phone",
+    "phoneValue": "+43613226909400",
     "address": "Address",
-    "addressValue": "Alte Brücke, 69117 Heidelberg, Germany",
+    "addressValue": "Gosaumühlstraße 67, 4830 Hallstatt, Austria",
     "plusCode": "Plus Code",
-    "plusCodeValue": "CP75+RR Heidelberg Germany"
+    "plusCodeValue": "HJ7X+RX Hallstatt, Austria"
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Entire Garden",
-    "outdoorTime": "Free and open all day, no ticketed indoor pavilions, no seasonal restrictions",
+    "outdoor": "Viewpoint Access",
+    "outdoorTime": "Open 24 hours, free of charge all year round",
     "lighthouse": "Nearby Attractions",
-    "summer": "Leiria Castle",
-    "summerTime": "Usually 09:30-17:30 (subject to official castle announcements)",
-    "winter": "Museum of Leiria",
-    "winterTime": "Usually 09:30-17:30 (Closed on Mondays)",
-    "warning": "Fountain & Statue Area",
-    "warningTime": "Open all day for viewing",
-    "tip": "Early mornings and late afternoons are the most peaceful times, perfect for walking and photography"
+    "summer": "Lake Hallstatt",
+    "summerTime": "Open all day; boat and ferry tours run seasonally",
+    "winter": "Salzwelten Hallstatt & Skywalk",
+    "winterTime": "Open daily, hours vary by season (usually 09:30-16:30); check the official website",
+    "warning": "Road Safety & Resident Privacy",
+    "warningTime": "The viewpoint stands directly beside the busy lakeside road. Keep off the carriageway, watch for traffic, never block residents' driveways, and do not fly drones over private property.",
+    "tip": "Calm mornings give the clearest mirror reflections of the church spire and the Dachstein peaks, so sunrise until around 9:00 am is the most peaceful window."
   },
   "tickets": {
     "title": "Ticket Information",
-    "outdoor": "Jardim Luís de Camões",
-    "outdoorPrice": "Free all day",
-    "lighthouse": "Nearby Paid Attractions",
-    "adults": "Leiria Castle",
-    "adultsPrice": "Requires an admission ticket",
-    "students": "Nearby Museums",
-    "studentsPrice": "Fees apply according to each venue's rules",
-    "children": "Parking Fees",
-    "childrenPrice": "Paid street parking is available around the garden, a 1-2 minute walk away",
-    "card": "Transport Tip",
-    "cardPrice": "Located in the city center, walking distance to nearby dining and shopping areas"
+    "outdoor": "Panoramic Viewpoint - Hallstatt",
+    "outdoorPrice": "Free - public viewpoint, open 24/7",
+    "lighthouse": "Paid Attractions Nearby",
+    "adults": "Salzwelten Hallstatt (Salt Mine & Skywalk)",
+    "adultsPrice": "Ticketed attraction (funicular ride included)",
+    "students": "Charnel House (Beinhaus)",
+    "studentsPrice": "Small admission fee applies",
+    "children": "Ferry & Parking",
+    "childrenPrice": "Ferry fare across the lake; parking P1/P2/P3 outside the town is charged by the hour",
+    "card": "Getting Around",
+    "cardPrice": "The old town is car-free - reach the viewpoint on foot from the ferry landing, the Market Square or the Gosaumühle bus stop."
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest International Airports: Lisbon LIS Airport (approx. 140 km, 1.5 hours drive), Porto OPO Airport (approx. 200 km, 2 hours drive).",
+    "airportDesc": "The nearest airports are Salzburg Airport (SZG), about 80 km / 1.5 hours by road, and Vienna International Airport (VIE), about 290 km / 3.5 hours. From either airport, take a train to Hallstatt via Attnang-Puchheim or Bad Ischl.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon, take the A8 or A1 highway north directly to Leiria. Set your GPS to Largo 5 de Outubro 48, and find paid street parking nearby.",
+    "selfDriveDesc": "Drive to Hallstatt and leave your car in the public parking lots P1, P2 or P3 outside the town - the centre is car-free for visitors. From P1 Gosaumühle the viewpoint is only about a 5-minute walk along the lake; from P2/P3 walk about 15 minutes along the lakeside promenade.",
     "bus": "Public Transport",
-    "busDesc": "Direct intercity buses (Rede Expressos) and trains run from both Lisbon and Porto to Leiria. From the Leiria station, the garden is easily reachable on foot.",
+    "busDesc": "Classic route: take bus 150 from Salzburg to Bad Ischl, change to the train to Hallstatt Bahnhof, then take the ferry (or walk) across the lake to the town dock. From the dock, walk north along the lake for about 5 minutes to reach the viewpoint.",
     "intercity": "Short-Distance Travel",
-    "intercityDesc": "Attractions in downtown Leiria are close together; Castelo de Leiria is just a 5-minute walk from the garden.",
+    "intercityDesc": "Obertraun on the far shore is a good base: park there and cross to Hallstatt by ferry or local bus to avoid the busy parking lots in peak season.",
     "cycling": "Cycling",
-    "cyclingDesc": "The coastal areas around Leiria (such as Nazaré and São Pedro de Moel) are great for road cycling.",
+    "cyclingDesc": "The lakeside roads around Hallstatt are popular with cyclists. Once you enter the town, dismount and push your bike, as lanes are narrow and crowded with pedestrians.",
     "tips": "Travel Tips",
-    "tipsDesc": "Leiria is centrally located in Portugal, close to the Atlantic coast, Óbidos Castle, and Batalha Monastery, making it an excellent hub for exploring the central region."
+    "tipsDesc": "The viewpoint sits at Gosaumühlstraße 67, a 5-10 minute walk from the Market Square. Walk north along the lakeside; when you see a cluster of visitors with cameras beside the road, you have reached the classic postcard position."
   },
   "route": {
     "title": "Visiting Route",
-    "overview": "Leiria City Center Walking Route",
+    "overview": "Classic Hallstatt Walking Route",
     "steps": [
-      "Arrive at Jardim Luís de Camões to admire the Camões statue and fountain",
-      "Take a break on a garden bench and enjoy the urban greenery",
-      "Walk to Leiria's old town to explore local cafes and craft shops",
-      "Take a 5-minute walk up to the majestic Castelo de Leiria",
-      "Visit the nearby Leiria Cathedral or local museums",
-      "Taste traditional Central Portugal cuisine in the old town"
+      "Start at the ferry landing or the Gosaumühle bus stop and walk into the old town.",
+      "Stroll through the Market Square (Marktplatz) and admire the colourful painted houses.",
+      "Walk north along the lakeside promenade and the Gosaumühlstraße for about 5-10 minutes.",
+      "Arrive at Panoramic Viewpoint - Hallstatt and capture the classic postcard photo.",
+      "On the way back, visit the Evangelical Parish Church and the Charnel House (Beinhaus).",
+      "Take the funicular up to the Salzwelten salt mine and the Skywalk for a bird's-eye panorama."
     ],
     "supplements": [
-      "The garden is an open space, no reservations needed",
-      "Pay attention to parking meters and time limits on surrounding streets",
-      "Leiria Castle is located on a hill, requiring an uphill walk"
+      "The viewpoint is narrow and borders the carriageway, so watch the traffic while taking photos.",
+      "Respect local residents: no loud noise, no drones and no entry to private gardens.",
+      "Arrive before 9:00 am to have the viewpoint to yourself before the tour groups."
     ],
     "supplementsTitle": "Visiting Notes"
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Photo Spots & Tips",
     "spots": [
       {
-        "name": "Luís de Camões Statue",
-        "desc": "The central landmark of the garden, perfect for memorial portraits"
+        "name": "The Postcard Viewpoint",
+        "desc": "Stand at the roadside rail at Gosaumühlstraße 67 and frame the church spire, the timber houses and the lake reflection in one shot."
       },
       {
-        "name": "Fountain and Greenery",
-        "desc": "Use the water features and manicured shrubs as foregrounds for fresh garden shots"
+        "name": "Lakeside Promenade",
+        "desc": "Lower viewpoints along the shore capture the town mirrored in calm water, with swans and wooden boats."
       },
       {
-        "name": "Relaxation Benches",
-        "desc": "Capture the laid-back daily life of the locals"
+        "name": "Market Square (Marktplatz)",
+        "desc": "Colourful historic facades and the Trinity column make for vivid close-range architecture shots."
       },
       {
-        "name": "Distant View of Leiria Castle",
-        "desc": "The silhouette of the castle can be framed from specific angles around the garden"
+        "name": "Skywalk Viewing Platform",
+        "desc": "Ride the funicular above the town for a sweeping aerial view over Hallstatt, the lake and the Dachstein range."
       }
     ],
     "tips": "Photography Tips",
-    "tipsContent": "Morning sunlight filtering through the leaves onto the statue creates the best lighting for photography."
+    "tipsContent": "Morning light is best: the surface of the lake is calm and the reflections crisp. Afternoons are usually backlit, and because the platform is tiny, plan to arrive before 9:00 am to avoid tour-bus crowds."
   },
   "hotels": {
-    "title": "Accommodation Suggestions",
+    "title": "Accommodation & Dining",
     "hotels": [
       {
-        "name": "Downtown Boutique Hotels",
-        "desc": "Just steps away from the garden and castle, extremely convenient",
-        "price": "Ideal for those who love a city vibe"
+        "name": "Lakeside Guesthouses in Hallstatt",
+        "desc": "Historic timber guesthouses in the centre offer an unforgettable stay above the lake - book months ahead for summer.",
+        "price": "Very limited and expensive in peak season"
       },
       {
-        "name": "Old Town Cozy Apartments",
-        "desc": "Equipped with kitchens, surrounded by restaurants and supermarkets",
-        "price": "Great for families or extended stays"
+        "name": "Obertraun (opposite shore)",
+        "desc": "A quiet, well-priced base across the lake, connected to Hallstatt by ferry and local bus.",
+        "price": "Best-value alternative when Hallstatt is full"
       },
       {
-        "name": "Coastal Resorts (e.g., near Nazaré)",
-        "desc": "About a 30-minute drive from Leiria, offering Atlantic ocean views",
-        "price": "Perfect for drivers seeking a beach holiday experience"
+        "name": "Bad Ischl (the Salzkammergut hub)",
+        "desc": "The elegant spa town where the train from Salzburg stops, about 30-40 minutes from Hallstatt by train and bus.",
+        "price": "Convenient for rail travellers"
       }
     ],
-    "supplements": "Accommodation Notes",
-    "supplementsContent": "Leiria and Central Portugal are famous for seafood, roasted meats, and traditional conventual sweets. Numerous highly-rated local restaurants are within walking distance of the garden.",
-    "supplementsTitle": "Local Cuisine"
+    "supplements": "Local Cuisine",
+    "supplementsContent": "Around the lake, restaurants serve freshly caught fish from the Hallstätter See, such as grilled Reinanke, alongside Austrian classics such as schnitzel and knödel. For the best value, dine outside the immediate tourist centre.",
+    "supplementsTitle": "Food Notes"
   },
   "gallery": {
     "title": "Stunning Photos",
-    "subtitle": "Charming Scenery of Jardim Luís de Camões",
+    "subtitle": "Views of Panoramic Viewpoint - Hallstatt and Lake Hallstatt",
     "captions": [
-      "Camões Statue",
-      "Garden Fountain",
-      "Manicured Shrubs",
-      "Leiria Castle View",
-      "Shaded Walking Path",
-      "Urban Oasis",
-      "Leiria Old Town Streets",
-      "Local Cafe",
-      "Sunlit Bench",
-      "Garden Flowers",
-      "City Square",
-      "Portuguese Cobblestones",
-      "Garden at Dusk",
-      "Leiria Cathedral",
-      "Monument Details",
-      "Quiet Afternoon",
-      "Cityscape",
-      "Historical Architecture",
-      "Water Feature",
-      "Locals Relaxing"
+      "Postcard view of Hallstatt from the viewpoint",
+      "Spire of the Evangelical Parish Church",
+      "Timber houses above the lake",
+      "Alps and lake reflection",
+      "Swans on Lake Hallstatt",
+      "Market Square painted facades",
+      "Winter snow over Hallstatt",
+      "Morning mist on the lake",
+      "Boats at the lakeside",
+      "Charnel House (Beinhaus) interior",
+      "Funicular to the salt mine",
+      "Skywalk panorama above the town",
+      "Historic alleys of the old town",
+      "Autumn colours at the shore",
+      "Grilled lake fish, a local speciality",
+      "Roadside viewpoint along Gosaumühlstraße",
+      "Hallstatt at dusk",
+      "Alpine boats on the jetty",
+      "Lakeside cafe terrace",
+      "Souvenir shop in the old town",
+      "Dachstein massif in the background",
+      "Ferry crossing the Hallstätter See",
+      "Sunrise reflections at the viewpoint"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Show All Photos"
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "declaration": "Review summaries below reflect recurring themes found in visitor feedback on Google Maps (external source).",
     "moreReviews": "View More Reviews on Google Maps",
     "items": [
       {
-        "name": "João Silva",
-        "date": "2 months ago",
+        "name": "Anna K.",
+        "date": "2 weeks ago",
         "rating": 5,
-        "text": "A wonderful, well-preserved urban garden! The cobblestone paths and statues are full of history. Walking here is very relaxing. Highly recommend coming at sunset."
+        "text": "The classic postcard spot! I arrived just after sunrise and had the mirror reflection of the church almost to myself. Tiny area, but absolutely magical."
       },
       {
-        "name": "Maria Costa",
+        "name": "Lukas M.",
         "date": "1 month ago",
         "rating": 5,
-        "text": "One of the most beautiful leisure spots in Leiria! The tranquility here is so relaxing, and the surrounding greenery is gorgeous. Be careful in summer as it can get hot, bring water and sunscreen."
+        "text": "This is why Hallstatt is on every bucket list. The view over the lake to the fairy-tale town is unreal, even when it is cloudy."
       },
       {
-        "name": "Carlos Rodrigues",
-        "date": "3 months ago",
+        "name": "Sarah W.",
+        "date": "2 months ago",
         "rating": 4,
-        "text": "An amazing place. The garden isn't huge, but the location is perfect. Had a great traditional Portuguese meal at a nearby restaurant. The only issue is finding parking during peak season."
+        "text": "Iconic and very photogenic, but the spot is right on the road and tour groups arrive constantly. Go very early or late in the day and take care with cars."
       },
       {
-        "name": "Ana Martins",
-        "date": "Over 6 months ago",
+        "name": "David T.",
+        "date": "3 months ago",
         "rating": 5,
-        "text": "A very romantic and charming place. We walked around here and the night view is absolutely stunning. Completely fell in love with it!"
+        "text": "Beautiful evening walk along the lakeside road from the Market Square. The viewpoint itself is small but the whole promenade is lovely."
       },
       {
-        "name": "Pedro Santos",
+        "name": "Elena R.",
+        "date": "5 months ago",
+        "rating": 5,
+        "text": "Being inside a UNESCO landscape shows in every direction you look. The combination of lake, mountains and historic rooftops is stunning."
+      },
+      {
+        "name": "Martin B.",
+        "date": "8 months ago",
+        "rating": 4,
+        "text": "Great perspective of the church spire and houses. Note it is on a busy road and parking in town is not allowed - use P1 and walk."
+      },
+      {
+        "name": "Julia H.",
         "date": "1 year ago",
         "rating": 5,
-        "text": "The scenery here really lifts your mood. You can see the exquisite statue blending with the wide square. The garden itself is charming with many cafes around."
+        "text": "Came in winter and the snow made everything look like a Christmas card. Quiet, crisp air, few people - highly recommended."
       },
       {
-        "name": "Teresa Ferreira",
-        "date": "Over 6 months ago",
+        "name": "Stefan P.",
+        "date": "over 1 year ago",
         "rating": 4,
-        "text": "Well worth a visit! It's very easy to walk here from Leiria Castle. Recommend wearing flat shoes due to the cobblestone paths. Locals are friendly, great spots for photos."
-      },
-      {
-        "name": "Rui Almeida",
-        "date": "3 months ago",
-        "rating": 5,
-        "text": "Feels like stepping back in time! Every path and fountain has its story. Resting on a bench makes you feel like time has stopped. A must-visit in Leiria."
-      },
-      {
-        "name": "Catarina Gomes",
-        "date": "2 months ago",
-        "rating": 5,
-        "text": "Beautiful beyond words. Whether it's the Camões statue or the green vegetation, you won't want to leave. Highly recommend sitting by the fountain, it feels amazing."
+        "text": "Worth the trip for photographers, but respect the residents - the spot sits right beside their homes. Best before 9 am."
       }
     ]
   },
   "mapSection": {
-    "title": "Transportation Guide",
-    "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, Portugal",
-    "openMaps": "View on Google Maps"
+    "title": "Location & Map",
+    "subtitle": "Gosaumühlstraße 67, 4830 Hallstatt, Austria",
+    "openMaps": "Open in Google Maps",
+    "authorityText": "For official updates and regional visitor information, visit the official tourism portal of the Salzkammergut / Dachstein region:",
+    "authorityUrl": "https://dachstein.salzkammergut.at/",
+    "authorityLabel": "Dachstein Salzkammergut Official Tourism Portal"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Quick answers about Panoramic Viewpoint - Hallstatt",
+    "items": [
+      {
+        "q": "Where is Panoramic Viewpoint - Hallstatt located?",
+        "a": "Panoramic Viewpoint - Hallstatt is located at Gosaumühlstraße 67 along the lakeside road on the northern edge of Hallstatt, in Upper Austria, Austria. It is a short 5-10 minute walk north of the Market Square."
+      },
+      {
+        "q": "Is the viewpoint free to visit?",
+        "a": "Yes. Panoramic Viewpoint - Hallstatt is an open roadside viewpoint beside a public road, so it is free to visit and accessible 24 hours a day all year round."
+      },
+      {
+        "q": "What is the best time to take the classic postcard photo?",
+        "a": "Early morning (before about 9:00 am) is best: the lake is calm, the reflections of the church spire are crisp and the tour-bus crowds have not yet arrived. Afternoons are usually backlit."
+      },
+      {
+        "q": "How do I get to the viewpoint from Salzburg?",
+        "a": "Take bus 150 from Salzburg to Bad Ischl, then the train to Hallstatt Bahnhof, then the ferry across the lake to the town dock. From the dock walk north along the lake for about 5 minutes. By car, park in P1/P2/P3 outside the town and walk."
+      },
+      {
+        "q": "Is there parking near the viewpoint?",
+        "a": "The old town is car-free. Use the public parking lots P1 (Gosaumühle), P2 or P3 outside the town; P1 is only a short walk from the viewpoint. Parking is charged per hour."
+      },
+      {
+        "q": "Are there toilets, cafes or other facilities nearby?",
+        "a": "The viewpoint itself has no facilities, but public toilets, cafes, restaurants and shops are a 5-10 minute walk away in the town centre, near the Market Square and the ferry landing."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Official Links",
+    "subtitle": "Independent visitor guide - official references for verification",
+    "lastUpdated": "Content last updated: September 9, 2026",
+    "items": [
+      {
+        "name": "Federal Government of Austria",
+        "url": "https://www.oesterreich.gv.at/de",
+        "note": "Official digital portal of the Austrian federal government."
+      },
+      {
+        "name": "Province of Upper Austria",
+        "url": "https://www.land-oberoesterreich.gv.at/",
+        "note": "State government of Upper Austria (Oberösterreich), the state that administers Hallstatt."
+      },
+      {
+        "name": "Municipality of Hallstatt",
+        "url": "https://www.hallstatt.ooe.gv.at/",
+        "note": "Official website of the Marktgemeinde Hallstatt - local regulations and information."
+      },
+      {
+        "name": "Dachstein Salzkammergut Tourism",
+        "url": "https://dachstein.salzkammergut.at/",
+        "note": "Regional tourism authority of the Inner Salzkammergut / Dachstein area."
+      },
+      {
+        "name": "Federal Monuments Office Austria (BDA)",
+        "url": "https://www.bda.gv.at/",
+        "note": "Austrian heritage authority responsible for the Hallstatt-Dachstein World Heritage area."
+      }
+    ],
+    "photoCredit": "All photos displayed on this website remain the property of their original photographers. All image rights and copyrights are reserved to their respective owners."
   },
   "footer": {
-    "rights": "© 2026 Old Bridge Heidelberg. All rights reserved.",
+    "rights": "© 2026 Panoramic Viewpoint - Hallstatt. All rights reserved.",
+    "officialFullName": "Panoramic Viewpoint - Hallstatt",
+    "napAddress": "Gosaumühlstraße 67, 4830 Hallstatt, Austria",
+    "napPhone": "+43613226909400",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
@@ -298,11 +384,12 @@
         "url": "https://www.bda.gv.at/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "photoCredit": "All photos displayed on this website remain the property of their original photographers. All image rights and copyrights are reserved to their respective owners.",
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with the local municipality, the regional tourism board or any other official institution."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: May 2026",
+    "lastUpdated": "Last Updated: September 9, 2026",
     "sections": [
       {
         "heading": "1. Information We Collect",
@@ -310,11 +397,11 @@
       },
       {
         "heading": "2. How We Use Your Information",
-        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+        "content": "We use the collected information to: improve website content and user experience, analyse traffic and usage patterns, respond to requests, and comply with our legal obligations."
       },
       {
         "heading": "3. Third-Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+        "content": "Our website may use third-party services such as Google Maps (for the embedded location map) and Google Analytics (for traffic analysis). These services have their own privacy policies."
       },
       {
         "heading": "4. Your Rights",
@@ -324,7 +411,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: May 2026",
+    "lastUpdated": "Last Updated: September 9, 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
@@ -332,15 +419,15 @@
       },
       {
         "heading": "2. Use of Content",
-        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attraction, government agency or commercial operator."
       },
       {
         "heading": "3. Accuracy of Information",
-        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Opening hours, transport options and conditions are subject to change without notice. Always verify important information through official channels before travelling."
       },
       {
         "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+        "content": "The design and original text of this website are protected by copyright. Photographs remain the property of their respective creators. The use of Google Maps data complies with Google's terms of service."
       },
       {
         "heading": "5. Limitation of Liability",
@@ -350,7 +437,7 @@
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "description": "Last Updated: September 9, 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
     "essential": {
       "title": "Essential Cookies",
       "description": "These cookies are essential for the website to function properly and cannot be disabled.",
@@ -395,7 +482,106 @@
     "rejectAll": "Reject All"
   },
   "officialManagement": {
-    "title": "About Jardim Luís de Camões",
-    "text": "Jardim Luís de Camões is an important memorial garden in the center of Leiria, managed and maintained by the Leiria City Council (Câmara Municipal de Leiria)."
+    "title": "About Panoramic Viewpoint - Hallstatt",
+    "text": "The viewpoint is located within the Hallstatt-Dachstein/Salzkammergut UNESCO Cultural Landscape. The surrounding lakeside area and historic centre are administered by the Municipality of Hallstatt under the planning protection of the Province of Upper Austria and the Austrian Federal Monuments Office (BDA)."
+  },
+  "facilities": {
+    "title": "On-site & Nearby Amenities",
+    "subtitle": "The viewpoint is an open, unstaffed scenic overlook with no on-site facilities. The list below describes the general types of services found in Hallstatt and along the lakeside – for planning only.",
+    "note": "For planning only – general service types, not a recommendation of any specific business. Availability and opening hours change with the seasons; please check locally.",
+    "items": [
+      {
+        "type": "Public restrooms",
+        "detail": "Free and paid public toilets are located along the lakeside promenade and near the boat / tourist jetties in Hallstatt."
+      },
+      {
+        "type": "Parking",
+        "detail": "Paid public parking areas at the southern entrance of Hallstatt (around Lahn) are the closest option for drivers; parking is not permitted in the historic centre."
+      },
+      {
+        "type": "Restaurants & cafés",
+        "detail": "Traditional restaurants, lakeside cafés and small snack bars line the promenade and the pedestrianised centre."
+      },
+      {
+        "type": "Accommodation",
+        "detail": "Hotels, guesthouses and holiday apartments are available in Hallstatt and in Obertraun on the opposite side of the lake."
+      },
+      {
+        "type": "Supermarket & shops",
+        "detail": "A small supermarket as well as shops for groceries, drinks and souvenirs operate in the centre of Hallstatt."
+      },
+      {
+        "type": "Fuel & EV charging",
+        "detail": "Petrol stations and public charging points for electric cars are available in Obertraun and along the Salzkammergut road network."
+      },
+      {
+        "type": "ATMs & banking",
+        "detail": "Cash machines are available in Hallstatt centre; card payment is widely accepted in restaurants and shops."
+      },
+      {
+        "type": "Tourist information",
+        "detail": "The Hallstatt tourist information office provides maps, hiking routes and boat schedules for the lake area."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Weather at Panoramic Viewpoint - Hallstatt",
+    "subtitle": "Live conditions and a 7-day outlook for the Hallstatt lake area, with plain-language tips on what to wear, what to do and what to pack.",
+    "current": "Current weather",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "forecast": "7-day forecast",
+    "maxTemp": "Max",
+    "minTemp": "Min",
+    "rainChance": "Rain chance",
+    "loading": "Loading weather data…",
+    "unavailable": "Weather data is temporarily unavailable. Please try again later.",
+    "conditions": {
+      "clear": "Clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Light rain",
+      "rain": "Rain",
+      "snow": "Snow",
+      "thunder": "Thunderstorms"
+    },
+    "uvIndex": "UV index",
+    "adviceLabels": {
+      "outfit": "What to wear",
+      "plan": "What to do",
+      "gear": "What to pack",
+      "risk": "Safety alert"
+    },
+    "advice": {
+      "outfitHot": "Quite warm today – wear light, breathable clothes and keep water handy.",
+      "outfitCool": "Cold today (high ≤10 °C): bring a warm coat and a scarf.",
+      "outfitDayNight": "Large day-to-night temperature swing – a layer you can take on and off helps.",
+      "outfitWind": "Quite windy, stronger right by the lake: wear a windbreaker; hats can blow away.",
+      "outfitRain": "Rain expected: wear a waterproof jacket or shoes and mind slippery ground.",
+      "outfitSun": "Clear skies: light clothes work well; keep a thin layer for the lakeside breeze.",
+      "outfitSnow": "Snowfall: warm winter coat and non-slip footwear.",
+      "outfitUv": "Strong UV – protect your skin and eyes.",
+      "planSunny": "Clear weather is best for the viewpoint: calm lake reflections in the morning and easy lakeside strolls.",
+      "planCloudy": "Soft, diffused light – great for photos and a full day outdoors along the lake without harsh sun.",
+      "planRainProb": "High rain chance: keep outdoor plans flexible and have an indoor backup ready.",
+      "planRainLight": "Light rain: the panorama looks muted, but a walk is still fine with an umbrella.",
+      "planNoOutdoor": "Not a great day outdoors: boats/ferries and the salt-mine cable car may pause – favour indoor sights.",
+      "planWind": "Strong wind may change boat schedules; the viewpoint itself is exposed and cool.",
+      "planHot": "Avoid long outdoor hours around noon – early morning or evening is far more comfortable.",
+      "planFog": "Dense fog: the view is severely limited and ferries may run late.",
+      "planSnow": "Snowy day: footpaths and mountain trails can ice over; the cable car may pause at short notice.",
+      "gearUmbrella": "Compact umbrella",
+      "gearRaincoat": "Raincoat (skip the long umbrella in wind)",
+      "gearSunscreen": "Sunscreen, sunglasses, sun hat",
+      "gearWater": "Drinking water",
+      "gearSnow": "Gloves and non-slip shoes",
+      "riskRainHeavy": "Heavy rain: avoid stream valleys, gullies and low lakeside ground; watch your step on wet paths.",
+      "riskThunder": "Thunderstorms: do not stay on the open lakeside, summits or under trees – postpone the cable car and hikes.",
+      "riskWind": "Gale-force wind: keep away from jetties, billboards and loose objects; ferries/boats may suspend service.",
+      "riskFog": "Fog: poor visibility for driving and walking; ferries may be delayed."
+    },
+    "noRisk": "No current safety alerts – enjoy your visit."
   }
 }

@@ -2,8 +2,10 @@
 
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { siteConfig } from '@/config';
 
 const photoIndices = Array.from({ length: 23 }, (_, i) => i + 1);
+const previewCount = 8;
 
 export default function Gallery() {
   const t = useTranslations('gallery');
@@ -13,13 +15,11 @@ export default function Gallery() {
   const [showAll, setShowAll] = useState(false);
 
   const photos = photoIndices.map((num, i) => ({
-    src: `/gallery/panoramic-viewpoint-hallstatt (${num}).jpg`,
+    src: `/gallery/panoramic-viewpoint-hallstatt-${num}.jpg`,
     alt: captions?.[i] || `Panoramic Viewpoint - Hallstatt ${num}`,
   }));
 
-  const displayedPhotos = showAll ? photos : photos;
-
-  // Force re-render of grid layout when showAll changes to fix Safari/iOS layout issues sometimes
+  const displayedPhotos = showAll ? photos : photos.slice(0, previewCount);
   const gridKey = showAll ? 'all' : 'partial';
 
   const goToPrevious = useCallback(() => {
@@ -62,7 +62,7 @@ export default function Gallery() {
                     alt={photo.alt}
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
-                    loading="lazy"
+                    loading={i < 4 ? 'eager' : 'lazy'}
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
@@ -74,8 +74,17 @@ export default function Gallery() {
             </div>
 
             <div className="flex flex-col items-center mt-8 gap-4">
+              {!showAll && (
+                <button
+                  onClick={() => setShowAll(true)}
+                  className="px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
+                  style={{ background: 'var(--accent)' }}
+                >
+                  {t('showAllPhotos')}
+                </button>
+              )}
               <a
-                href="https://maps.app.goo.gl/uRxeqSp92vqTwqrH7"
+                href={siteConfig.mapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

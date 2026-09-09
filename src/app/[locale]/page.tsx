@@ -1,15 +1,21 @@
 import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import IntroSection from '@/components/IntroSection';
 import BasicInfo from '@/components/BasicInfo';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
+import WeatherSection from '@/components/WeatherSection';
+import FacilitiesSection from '@/components/FacilitiesSection';
+import InfoSection from '@/components/InfoSection';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
 import HotelsSection from '@/components/HotelsSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
+import FAQSection from '@/components/FAQSection';
+import SourcesSection from '@/components/SourcesSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
 
@@ -26,15 +32,21 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
+        <IntroSection />
         <BasicInfo />
         <HoursSection />
         <TicketsSection />
         <TransportSection />
+        <WeatherSection />
+        <FacilitiesSection />
+        <InfoSection />
         <RouteSection />
         <PhotoSpotsSection />
         <HotelsSection />
         <Gallery />
         <Reviews />
+        <FAQSection />
+        <SourcesSection />
         <MapEmbed />
       </main>
       <Footer />

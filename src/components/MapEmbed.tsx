@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { siteConfig } from '@/config';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
@@ -16,30 +17,23 @@ export default function MapEmbed() {
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
         {/* Map */}
-        <div
-          className="map-container relative rounded-xl overflow-hidden"
-          style={{ border: '1px solid var(--map-border)' }}
-        >
-          {/* 
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
+        <div className="map-container relative rounded-xl overflow-hidden" style={{ border: '1px solid var(--map-border)' }}>
           <iframe
-            src="https://maps.google.com/maps?q=Panoramic+Viewpoint+-+Hallstatt&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={siteConfig.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Panoramic Viewpoint Hallstatt"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Panoramic Viewpoint Hallstatt, Gosaumühlstraße 67, 4830 Hallstatt, Austria"
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/uRxeqSp92vqTwqrH7"
+            href={siteConfig.mapsUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
@@ -57,6 +51,23 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Authoritative outbound tourism link */}
+        <p
+          className="mt-6 text-center text-xs leading-relaxed mx-auto"
+          style={{ color: 'var(--text-muted)', maxWidth: '36rem' }}
+        >
+          {t('authorityText')}{' '}
+          <a
+            href={t('authorityUrl')}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('authorityLabel')}
+          </a>
+        </p>
       </div>
     </section>
   );

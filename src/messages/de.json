@@ -1,401 +1,587 @@
 {
   "meta": {
-    "title": "Jardim Luís de Camões | Urban Memorial Garden in Leiria, Portugal",
-    "description": "Explore the complete guide to Jardim Luís de Camões in Leiria, Portugal. Learn about this memorial garden, its central statue, and nearby attractions like Leiria Castle."
+    "title": "Aussichtspunkt Hallstatt (Österreich): Guide, Lage & Panoramablick",
+    "description": "Der Aussichtspunkt Hallstatt (Panoramic Viewpoint - Hallstatt) – klassischer Postkartenblick am Hallstätter See im Salzkammergut. Karte und beste Zeit für den Besuch."
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "home": "Startseite",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "backToHome": "Zurück zur Startseite"
   },
   "hero": {
     "title": "Aussichtspunkt Hallstatt",
-    "subtitle": "Panoramic Viewpoint - Hallstatt",
+    "subtitle": "Der klassische Postkartenblick auf Hallstatt · Salzkammergut, Österreich",
     "rating": "4.8",
-    "reviewCount": "13,868",
-    "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "reviewCount": "14.323",
+    "hours": "Rund um die Uhr geöffnet",
+    "openMaps": "Standort ansehen"
   },
   "intro": {
-    "title": "Explore Jardim Luís de Camões",
-    "description": "Jardim Luís de Camões is a small urban memorial garden located in the heart of Leiria, adjacent to the Leiria Castle and the old town. It is a popular spot for locals to relax and take a walk. At the center of the garden stands a bronze statue honoring Portugal's greatest poet, Luís de Camões, surrounded by manicured shrubs, flowers, benches, and a small fountain, offering a tranquil environment perfect for a brief rest.",
+    "title": "Über den Aussichtspunkt Hallstatt",
+    "breadcrumb": [
+      "Aussichtspunkt Hallstatt",
+      "Hallstatt",
+      "Oberösterreich",
+      "Österreich"
+    ],
+    "description": "Willkommen am Aussichtspunkt Hallstatt, besser bekannt als Panoramic Viewpoint - Hallstatt. Der Aussichtspunkt liegt direkt an der Uferstraße Gosaumühlstraße 67 in Hallstatt, Oberösterreich, Österreich, und bietet die weltberühmte Postkarten-Panorama über den Hallstätter See - eingerahmt vom Turm der Evangelischen Pfarrkirche, den terrassenartig gebauten Holzhäusern und dem Dachsteinmassiv. Zur Klarstellung: Dieser Guide bezieht sich auf genau diesen klassischen Postkartenblick am Seeufer in der Gosaumühlstraße 67; die Skywalk-Aussichtsplattform des Salzbergwerks oberhalb des Ortes ist ein separates Ziel und wird auf dieser Seite nicht behandelt.",
+    "nearbyText": "Bei einem Besuch des Panoramic Viewpoint - Hallstatt lassen sich die umliegenden Sehenswürdigkeiten gut kombinieren, darunter der Marktplatz in der Altstadt, das Beinhaus sowie das Salzbergwerk Salzwelten Hallstatt mit seiner Skywalk-Aussichtsplattform gegenüber der Bucht.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Besuchstipps",
       "items": [
-        "The garden is an open urban park with flat terrain and comfortable walking paths",
-        "Equipped with plenty of benches and shade, making it an ideal resting place before or after visiting nearby attractions like Leiria Castle",
-        "Free and open all day, you can visit anytime for a walk or to admire the Camões statue",
-        "Located right next to Leiria's old town, with numerous cafes and restaurants nearby"
+        "Beste Zeit zum Fotografieren: Am Morgen ist das Licht optimal und der See spiegelglatt, nachmittags steht die Sonne meist gegen die Kamera.",
+        "Der Aussichtspunkt liegt direkt an der Straße und ist sehr klein - achten Sie beim Fotografieren stets auf den Verkehr.",
+        "Bitte respektieren Sie die Anwohner: keine lauten Geräusche, kein Betreten privater Grundstücke, keine Drohnenflüge.",
+        "Kommen Sie vor 9:00 Uhr oder nach 17:00 Uhr, um die Touristenbus-Gruppen zu vermeiden."
       ]
     },
     "alsoKnownAs": {
-      "title": "Garden Highlights",
+      "title": "Warum er berühmt ist",
       "items": [
-        "Memorial Significance: Features a central bronze statue dedicated to the great Portuguese poet Luís de Camões",
-        "Beautiful Environment: A harmonious blend of manicured green shrubs, seasonal flowers, and a small fountain",
-        "Central Location: Situated in downtown Leiria, just a 5-minute walk from the historic Castelo de Leiria",
-        "Urban Oasis: Provides a quiet, relaxing space for both citizens and tourists"
+        "Postkartenblick: Die bekannteste Fotoperspektive von Hallstatt aus unzähligen Reisemagazinen.",
+        "Weltkulturerbe: Liegt im Herzen der UNESCO-Kulturlandschaft Hallstatt-Dachstein/Salzkammergut (1997).",
+        "See & Alpen: Weiter Blick über den Hallstätter See bis zum Dachsteinmassiv.",
+        "Leicht erreichbar: Nur ein kurzer, ebener Fußweg vom Marktplatz und vom Schiffsanleger."
       ]
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Jardim Luís de Camões",
+    "title": "Hallstatt entdecken",
     "sections": [
       {
         "id": "history",
-        "title": "Memorial Significance",
-        "content": "This garden was established by the city of Leiria as an urban space to pay tribute to the Portuguese literary giant Luís de Camões, with his bronze statue acting as the centerpiece."
+        "title": "Weltkulturerbe",
+        "content": "Vom Aussichtspunkt blicken Sie auf die Kulturlandschaft Hallstatt-Dachstein/Salzkammergut, die 1997 in die UNESCO-Welterbeliste aufgenommen wurde. Der Ort liegt an einer der ältesten Salzhandelsrouten Europas, mit 7.000 Jahren Bergbaugeschichte unter den umliegenden Bergen."
       },
       {
         "id": "architecture",
-        "title": "Landscaping",
-        "content": "The garden features a delicate design with neatly trimmed greenery, a classical-style fountain, and relaxing benches that blend harmoniously with the surrounding urban architecture."
+        "title": "Traditionelle Architektur",
+        "content": "Vom Nordufer aus sehen Sie die hölzernen Fassaden Hallstatts, die sich den Berghang hinaufziehen, gekrönt vom Turm der Evangelischen Pfarrkirche. Die kompakte Altstadt ist autofrei und gehört mit ihren bemalten Fassaden und engen Gassen zum geschützten Denkmalensemble."
       },
       {
         "id": "experience",
-        "title": "Relaxing Experience",
-        "content": "It is the perfect place to unwind after visiting the majestic Leiria Castle. You can sit on a bench, listen to the fountain, and experience the slow-paced lifestyle of Leiria."
+        "title": "Jahreszeiten & Licht",
+        "content": "Bei ruhigem Wetter spiegelt der See Kirchturm und Gipfel - am schönsten am frühen Morgen. Herbstfarben und Schnee verwandeln die Szenerie, im Sommer ist der berühmte Aussichtspunkt am stärksten besucht."
+      },
+      {
+        "id": "culture",
+        "title": "Salz, Name & Vorgeschichte",
+        "content": "Der Ortsname „Hallstatt\" geht auf das althochdeutsche Wort „hall\" für Salz zurück – Salz war jahrhundertelang das „weiße Gold\" der Region. Nach den Gräberfunden von 1846 im Hochtal oberhalb des Ortes benannte die archäologische Forschung die älteste eisenzeitliche Kultur Mitteleuropas nach dieser Fundstätte: die Hallstatt-Kultur (ca. 800–450 v. Chr.)."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
-    "officialNameValue": "Alte Brücke Heidelberg",
-    "type": "Attraction Type",
-    "typeValue": "景点",
-    "country": "Country",
-    "countryValue": "Germany",
-    "city": "City",
-    "cityValue": "Heidelberg",
-    "googleRating": "Google Rating",
-    "address": "Address",
-    "addressValue": "Alte Brücke, 69117 Heidelberg, Germany",
+    "title": "Basisinformationen",
+    "officialName": "Offizieller Name",
+    "officialNameValue": "Panoramic Viewpoint - Hallstatt",
+    "type": "Art der Sehenswürdigkeit",
+    "typeValue": "Aussichtspunkt / Touristenattraktion",
+    "country": "Land",
+    "countryValue": "Österreich",
+    "city": "Ort",
+    "cityValue": "Hallstatt",
+    "googleRating": "Google-Bewertung",
+    "phone": "Telefon",
+    "phoneValue": "+43613226909400",
+    "address": "Adresse",
+    "addressValue": "Gosaumühlstraße 67, 4830 Hallstatt, Österreich",
     "plusCode": "Plus Code",
-    "plusCodeValue": "CP75+RR Heidelberg Germany"
+    "plusCodeValue": "HJ7X+RX Hallstatt, Österreich"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Entire Garden",
-    "outdoorTime": "Free and open all day, no ticketed indoor pavilions, no seasonal restrictions",
-    "lighthouse": "Nearby Attractions",
-    "summer": "Leiria Castle",
-    "summerTime": "Usually 09:30-17:30 (subject to official castle announcements)",
-    "winter": "Museum of Leiria",
-    "winterTime": "Usually 09:30-17:30 (Closed on Mondays)",
-    "warning": "Fountain & Statue Area",
-    "warningTime": "Open all day for viewing",
-    "tip": "Early mornings and late afternoons are the most peaceful times, perfect for walking and photography"
+    "title": "Öffnungszeiten",
+    "outdoor": "Zugang zum Aussichtspunkt",
+    "outdoorTime": "Rund um die Uhr geöffnet, ganzjährig kostenlos",
+    "lighthouse": "Sehenswürdigkeiten in der Nähe",
+    "summer": "Hallstätter See",
+    "summerTime": "Ganztägig geöffnet; Schifffahrt und Fähren je nach Saison",
+    "winter": "Salzwelten Hallstatt & Skywalk",
+    "winterTime": "Täglich geöffnet, Zeiten je nach Saison (meist 09:30-16:30); aktuelle Zeiten auf der offiziellen Website prüfen",
+    "warning": "Verkehrssicherheit & Privatsphäre",
+    "warningTime": "Der Aussichtspunkt liegt direkt an der vielbefahrenen Uferstraße. Betreten Sie nicht die Fahrbahn, achten Sie auf den Verkehr, blockieren Sie keine Einfahrten und fliegen Sie keine Drohnen über Privatgrundstücke.",
+    "tip": "An ruhigen Morgen spiegelt der See Kirchturm und Dachstein am klarsten - von Sonnenaufgang bis etwa 9:00 Uhr ist die friedlichste Zeit für Aufnahmen."
   },
   "tickets": {
-    "title": "Ticket Information",
-    "outdoor": "Jardim Luís de Camões",
-    "outdoorPrice": "Free all day",
-    "lighthouse": "Nearby Paid Attractions",
-    "adults": "Leiria Castle",
-    "adultsPrice": "Requires an admission ticket",
-    "students": "Nearby Museums",
-    "studentsPrice": "Fees apply according to each venue's rules",
-    "children": "Parking Fees",
-    "childrenPrice": "Paid street parking is available around the garden, a 1-2 minute walk away",
-    "card": "Transport Tip",
-    "cardPrice": "Located in the city center, walking distance to nearby dining and shopping areas"
+    "title": "Ticketinformationen",
+    "outdoor": "Aussichtspunkt Hallstatt",
+    "outdoorPrice": "Kostenlos - öffentlicher Aussichtspunkt, 24/7 geöffnet",
+    "lighthouse": "Kostenpflichtige Attraktionen in der Nähe",
+    "adults": "Salzwelten Hallstatt (Salzbergwerk & Skywalk)",
+    "adultsPrice": "Eintrittspflichtig (Standseilbahn inklusive)",
+    "students": "Beinhaus",
+    "studentsPrice": "Kleine Eintrittsgebühr",
+    "children": "Fähre & Parken",
+    "childrenPrice": "Fährtarif über den See; Parkplätze P1/P2/P3 außerhalb des Ortes werden stundenweise berechnet",
+    "card": "Unterwegs im Ort",
+    "cardPrice": "Die Altstadt ist autofrei - erreichen Sie den Aussichtspunkt zu Fuß vom Anleger, vom Marktplatz oder von der Bushaltestelle Gosaumühle."
   },
   "transport": {
-    "title": "Transportation",
-    "airport": "From the Airport",
-    "airportDesc": "Nearest International Airports: Lisbon LIS Airport (approx. 140 km, 1.5 hours drive), Porto OPO Airport (approx. 200 km, 2 hours drive).",
-    "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon, take the A8 or A1 highway north directly to Leiria. Set your GPS to Largo 5 de Outubro 48, and find paid street parking nearby.",
-    "bus": "Public Transport",
-    "busDesc": "Direct intercity buses (Rede Expressos) and trains run from both Lisbon and Porto to Leiria. From the Leiria station, the garden is easily reachable on foot.",
-    "intercity": "Short-Distance Travel",
-    "intercityDesc": "Attractions in downtown Leiria are close together; Castelo de Leiria is just a 5-minute walk from the garden.",
-    "cycling": "Cycling",
-    "cyclingDesc": "The coastal areas around Leiria (such as Nazaré and São Pedro de Moel) are great for road cycling.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Leiria is centrally located in Portugal, close to the Atlantic coast, Óbidos Castle, and Batalha Monastery, making it an excellent hub for exploring the central region."
+    "title": "Anreise",
+    "airport": "Vom Flughafen",
+    "airportDesc": "Die nächsten Flughäfen sind der Flughafen Salzburg (SZG), ca. 80 km / 1,5 Stunden, und der Flughafen Wien (VIE), ca. 290 km / 3,5 Stunden. Von beiden nehmen Sie den Zug nach Hallstatt über Attnang-Puchheim oder Bad Ischl.",
+    "selfDrive": "Mit dem Auto",
+    "selfDriveDesc": "Parken Sie auf den öffentlichen Parkplätzen P1, P2 oder P3 außerhalb des Ortes - das Zentrum ist für Gäste autofrei. Vom P1 (Gosaumühle) sind es nur ca. 5 Gehminuten am See entlang zum Aussichtspunkt; vom P2/P3 etwa 15 Gehminuten über die Seepromenade.",
+    "bus": "Öffentliche Verkehrsmittel",
+    "busDesc": "Klassische Route: Bus 150 von Salzburg nach Bad Ischl, dann Zug nach Hallstatt Bahnhof und mit der Fähre (oder zu Fuß) über den See zum Ortsanleger. Vom Anleger gehen Sie ca. 5 Minuten am Seeufer entlang nach Norden.",
+    "intercity": "Kurze Strecken",
+    "intercityDesc": "Obertraun am gegenüberliegenden Ufer ist ein guter Ausgangspunkt: Parken Sie dort und setzen Sie mit der Fähre oder dem Bus über, um die vollen Parkplätze in der Hochsaison zu vermeiden.",
+    "cycling": "Mit dem Rad",
+    "cyclingDesc": "Die Uferstraßen rund um Hallstatt sind bei Radfahrern beliebt. Im Ort selbst steigen Sie ab und schieben - die Gassen sind eng und voller Fußgänger.",
+    "tips": "Reisetipps",
+    "tipsDesc": "Der Aussichtspunkt liegt an der Gosaumühlstraße 67, ca. 5-10 Gehminuten vom Marktplatz. Gehen Sie am Seeufer entlang nach Norden; wo sich eine Gruppe Fotografen an der Straße versammelt, haben Sie die klassische Postkartenposition erreicht."
   },
   "route": {
-    "title": "Visiting Route",
-    "overview": "Leiria City Center Walking Route",
+    "title": "Besichtigungsroute",
+    "overview": "Klassische Hallstatt-Wanderroute",
     "steps": [
-      "Arrive at Jardim Luís de Camões to admire the Camões statue and fountain",
-      "Take a break on a garden bench and enjoy the urban greenery",
-      "Walk to Leiria's old town to explore local cafes and craft shops",
-      "Take a 5-minute walk up to the majestic Castelo de Leiria",
-      "Visit the nearby Leiria Cathedral or local museums",
-      "Taste traditional Central Portugal cuisine in the old town"
+      "Start am Schiffsanleger oder an der Bushaltestelle Gosaumühle in die Altstadt.",
+      "Spazieren Sie über den Marktplatz und bewundern Sie die bemalten Häuser.",
+      "Gehen Sie entlang der Seepromenade und der Gosaumühlstraße ca. 5-10 Minuten nach Norden.",
+      "Erreichen Sie den Aussichtspunkt Hallstatt und machen Sie das klassische Postkartenfoto.",
+      "Auf dem Rückweg besuchen Sie die Evangelische Pfarrkirche und das Beinhaus.",
+      "Fahren Sie mit der Standseilbahn zum Salzbergwerk Salzwelten und zur Skywalk-Plattform."
     ],
     "supplements": [
-      "The garden is an open space, no reservations needed",
-      "Pay attention to parking meters and time limits on surrounding streets",
-      "Leiria Castle is located on a hill, requiring an uphill walk"
+      "Der Aussichtspunkt ist schmal und grenzt an die Fahrbahn - achten Sie beim Fotografieren auf den Verkehr.",
+      "Respektieren Sie die Anwohner: kein Lärm, keine Drohnen, kein Betreten privater Gärten.",
+      "Kommen Sie vor 9:00 Uhr, um den Aussichtspunkt vor den Reisegruppen für sich zu haben."
     ],
-    "supplementsTitle": "Visiting Notes"
+    "supplementsTitle": "Hinweise für den Besuch"
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Fotospots & Tipps",
     "spots": [
       {
-        "name": "Luís de Camões Statue",
-        "desc": "The central landmark of the garden, perfect for memorial portraits"
+        "name": "Der Postkartenblick",
+        "desc": "Stellen Sie sich an das Geländer der Gosaumühlstraße 67 und rahmen Sie Kirchturm, Holzhäuser und Seespiegel in einem Bild."
       },
       {
-        "name": "Fountain and Greenery",
-        "desc": "Use the water features and manicured shrubs as foregrounds for fresh garden shots"
+        "name": "Seepromenade",
+        "desc": "Tiefer gelegene Uferstellen spiegeln den Ort im ruhigen Wasser, begleitet von Schwänen und Holzbooten."
       },
       {
-        "name": "Relaxation Benches",
-        "desc": "Capture the laid-back daily life of the locals"
+        "name": "Marktplatz",
+        "desc": "Bunte historische Fassaden und die Dreifaltigkeitssäule eignen sich hervorragend für Architekturaufnahmen."
       },
       {
-        "name": "Distant View of Leiria Castle",
-        "desc": "The silhouette of the castle can be framed from specific angles around the garden"
+        "name": "Skywalk-Aussichtsplattform",
+        "desc": "Mit der Standseilbahn über den Ort fahren und den Panoramablick über Hallstatt, den See und das Dachsteingebirge genießen."
       }
     ],
-    "tips": "Photography Tips",
-    "tipsContent": "Morning sunlight filtering through the leaves onto the statue creates the best lighting for photography."
+    "tips": "Fototipps",
+    "tipsContent": "Morgenlicht ist am besten: Der See ist ruhig und die Spiegelungen sind klar. Nachmittags ist es meist Gegenlicht - kommen Sie wegen der kleinen Plattform vor 9:00 Uhr."
   },
   "hotels": {
-    "title": "Accommodation Suggestions",
+    "title": "Unterkunft & Gastronomie",
     "hotels": [
       {
-        "name": "Downtown Boutique Hotels",
-        "desc": "Just steps away from the garden and castle, extremely convenient",
-        "price": "Ideal for those who love a city vibe"
+        "name": "Seegasthöfe in Hallstatt",
+        "desc": "Historische Holzhäuser im Zentrum bieten einen unvergesslichen Aufenthalt über dem See - im Sommer Monate im Voraus buchen.",
+        "price": "In der Hochsaison sehr begrenzt und teuer"
       },
       {
-        "name": "Old Town Cozy Apartments",
-        "desc": "Equipped with kitchens, surrounded by restaurants and supermarkets",
-        "price": "Great for families or extended stays"
+        "name": "Obertraun (gegenüberliegendes Ufer)",
+        "desc": "Eine ruhige, preiswerte Basis am anderen Ufer, mit Fähre und Bus mit Hallstatt verbunden.",
+        "price": "Beste Alternative, wenn Hallstatt ausgebucht ist"
       },
       {
-        "name": "Coastal Resorts (e.g., near Nazaré)",
-        "desc": "About a 30-minute drive from Leiria, offering Atlantic ocean views",
-        "price": "Perfect for drivers seeking a beach holiday experience"
+        "name": "Bad Ischl (Zentrum des Salzkammerguts)",
+        "desc": "Die elegante Kurstadt, wo der Zug aus Salzburg hält - ca. 30-40 Minuten von Hallstatt entfernt.",
+        "price": "Praktisch für Bahnreisende"
       }
     ],
-    "supplements": "Accommodation Notes",
-    "supplementsContent": "Leiria and Central Portugal are famous for seafood, roasted meats, and traditional conventual sweets. Numerous highly-rated local restaurants are within walking distance of the garden.",
-    "supplementsTitle": "Local Cuisine"
+    "supplements": "Regionale Küche",
+    "supplementsContent": "Rund um den See servieren Restaurants frisch gefangenen Fisch aus dem Hallstätter See, etwa gebratene Reinanke, dazu österreichische Klassiker wie Schnitzel und Knödel. Gute und günstige Lokale finden Sie etwas außerhalb des touristischen Zentrums.",
+    "supplementsTitle": "Gastronomie-Hinweise"
   },
   "gallery": {
-    "title": "Stunning Photos",
-    "subtitle": "Charming Scenery of Jardim Luís de Camões",
+    "title": "Atemberaubende Fotos",
+    "subtitle": "Blicke vom Aussichtspunkt Hallstatt auf den Hallstätter See",
     "captions": [
-      "Camões Statue",
-      "Garden Fountain",
-      "Manicured Shrubs",
-      "Leiria Castle View",
-      "Shaded Walking Path",
-      "Urban Oasis",
-      "Leiria Old Town Streets",
-      "Local Cafe",
-      "Sunlit Bench",
-      "Garden Flowers",
-      "City Square",
-      "Portuguese Cobblestones",
-      "Garden at Dusk",
-      "Leiria Cathedral",
-      "Monument Details",
-      "Quiet Afternoon",
-      "Cityscape",
-      "Historical Architecture",
-      "Water Feature",
-      "Locals Relaxing"
+      "Postkartenblick auf Hallstatt vom Aussichtspunkt",
+      "Turm der Evangelischen Pfarrkirche",
+      "Holzhäuser über dem See",
+      "Alpen und Seespiegelung",
+      "Schwäne auf dem Hallstätter See",
+      "Bemalte Fassaden am Marktplatz",
+      "Winterlicher Schnee über Hallstatt",
+      "Morgennebel über dem See",
+      "Boote am Seeufer",
+      "Das Beinhaus in der Altstadt",
+      "Standseilbahn zum Salzbergwerk",
+      "Skywalk-Panorama über dem Ort",
+      "Historische Gassen der Altstadt",
+      "Herbstfarben am Ufer",
+      "Gebratener Seefisch, eine lokale Spezialität",
+      "Aussichtspunkt an der Gosaumühlstraße",
+      "Hallstatt in der Abenddämmerung",
+      "Alpenboote am Steg",
+      "Cafe-Terrasse am See",
+      "Souvenirladen in der Altstadt",
+      "Dachsteinmassiv im Hintergrund",
+      "Fähre auf dem Hallstätter See",
+      "Sonnenaufgangsspiegelung am Aussichtspunkt"
     ],
-    "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "viewAll": "Weitere Fotos auf Google Maps ansehen",
+    "showAllPhotos": "Alle Fotos anzeigen"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
+    "title": "Besucherbewertungen",
+    "declaration": "Die Bewertungszusammenfassungen spiegeln wiederkehrende Themen aus dem Besucherfeedback auf Google Maps wider (externe Quelle).",
+    "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
     "items": [
       {
-        "name": "João Silva",
-        "date": "2 months ago",
+        "name": "Anna K.",
+        "date": "vor 2 Wochen",
         "rating": 5,
-        "text": "A wonderful, well-preserved urban garden! The cobblestone paths and statues are full of history. Walking here is very relaxing. Highly recommend coming at sunset."
+        "text": "Der klassische Postkartenblick! Ich kam kurz nach Sonnenaufgang und hatte die Spiegelung der Kirche fast für mich allein. Winzige Fläche, aber absolut magisch."
       },
       {
-        "name": "Maria Costa",
-        "date": "1 month ago",
+        "name": "Lukas M.",
+        "date": "vor 1 Monat",
         "rating": 5,
-        "text": "One of the most beautiful leisure spots in Leiria! The tranquility here is so relaxing, and the surrounding greenery is gorgeous. Be careful in summer as it can get hot, bring water and sunscreen."
+        "text": "Genau deshalb steht Hallstatt auf jeder Bucket-Liste. Der Blick über den See zum märchenhaften Ort ist unwirklich, selbst bei Wolken."
       },
       {
-        "name": "Carlos Rodrigues",
-        "date": "3 months ago",
+        "name": "Sarah W.",
+        "date": "vor 2 Monaten",
         "rating": 4,
-        "text": "An amazing place. The garden isn't huge, but the location is perfect. Had a great traditional Portuguese meal at a nearby restaurant. The only issue is finding parking during peak season."
+        "text": "Ikonisch und sehr fotogen, aber die Stelle liegt direkt an der Straße und die Gruppen kommen pausenlos. Kommen Sie früh oder spät und achten Sie auf Autos."
       },
       {
-        "name": "Ana Martins",
-        "date": "Over 6 months ago",
+        "name": "David T.",
+        "date": "vor 3 Monaten",
         "rating": 5,
-        "text": "A very romantic and charming place. We walked around here and the night view is absolutely stunning. Completely fell in love with it!"
+        "text": "Wunderschöner Abendspaziergang entlang der Uferstraße vom Marktplatz. Der Aussichtspunkt ist klein, aber die ganze Promenade ist reizvoll."
       },
       {
-        "name": "Pedro Santos",
-        "date": "1 year ago",
+        "name": "Elena R.",
+        "date": "vor 5 Monaten",
         "rating": 5,
-        "text": "The scenery here really lifts your mood. You can see the exquisite statue blending with the wide square. The garden itself is charming with many cafes around."
+        "text": "In einer UNESCO-Landschaft zeigt sich in jede Richtung etwas Besonderes. Die Kombination aus See, Bergen und historischen Dächern ist atemberaubend."
       },
       {
-        "name": "Teresa Ferreira",
-        "date": "Over 6 months ago",
+        "name": "Martin B.",
+        "date": "vor 8 Monaten",
         "rating": 4,
-        "text": "Well worth a visit! It's very easy to walk here from Leiria Castle. Recommend wearing flat shoes due to the cobblestone paths. Locals are friendly, great spots for photos."
+        "text": "Tolle Perspektive auf Kirchturm und Häuser. Beachten Sie: Es liegt an einer vielbefahrenen Straße, Parken im Ort ist nicht erlaubt - P1 nutzen und laufen."
       },
       {
-        "name": "Rui Almeida",
-        "date": "3 months ago",
+        "name": "Julia H.",
+        "date": "vor 1 Jahr",
         "rating": 5,
-        "text": "Feels like stepping back in time! Every path and fountain has its story. Resting on a bench makes you feel like time has stopped. A must-visit in Leiria."
+        "text": "War im Winter da, der Schnee machte alles zu einer Weihnachtskarte. Ruhig, klare Luft, wenige Menschen - sehr empfehlenswert."
       },
       {
-        "name": "Catarina Gomes",
-        "date": "2 months ago",
-        "rating": 5,
-        "text": "Beautiful beyond words. Whether it's the Camões statue or the green vegetation, you won't want to leave. Highly recommend sitting by the fountain, it feels amazing."
+        "name": "Stefan P.",
+        "date": "vor über 1 Jahr",
+        "rating": 4,
+        "text": "Für Fotografen eine Reise wert, aber respektieren Sie die Bewohner - die Stelle liegt direkt vor ihren Häusern. Am besten vor 9 Uhr."
       }
     ]
   },
   "mapSection": {
-    "title": "Transportation Guide",
-    "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, Portugal",
-    "openMaps": "View on Google Maps"
+    "title": "Lage & Karte",
+    "subtitle": "Gosaumühlstraße 67, 4830 Hallstatt, Österreich",
+    "openMaps": "In Google Maps öffnen",
+    "authorityText": "Für offizielle Informationen und regionale Tourismushinweise besuchen Sie das offizielle Tourismusportal der Region Salzkammergut / Dachstein:",
+    "authorityUrl": "https://dachstein.salzkammergut.at/",
+    "authorityLabel": "Offizielles Tourismusportal Dachstein Salzkammergut"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Kurzantworten zum Aussichtspunkt Hallstatt",
+    "items": [
+      {
+        "q": "Wo liegt der Aussichtspunkt Hallstatt?",
+        "a": "Der Aussichtspunkt Hallstatt (Panoramic Viewpoint - Hallstatt) liegt an der Uferstraße Gosaumühlstraße 67 am nördlichen Ortsrand von Hallstatt in Oberösterreich, Österreich - ca. 5-10 Gehminuten nördlich des Marktplatzes."
+      },
+      {
+        "q": "Ist der Aussichtspunkt kostenlos?",
+        "a": "Ja. Der Aussichtspunkt Hallstatt liegt direkt an einer öffentlichen Straße und ist ganzjährig rund um die Uhr kostenlos zugänglich."
+      },
+      {
+        "q": "Wann ist die beste Zeit für das klassische Postkartenfoto?",
+        "a": "Am frühen Morgen (vor etwa 9:00 Uhr): Der See ist ruhig, die Spiegelungen des Kirchturms sind klar und die Reisegruppen sind noch nicht da. Nachmittags steht die Sonne meist im Gegenlicht."
+      },
+      {
+        "q": "Wie komme ich von Salzburg zum Aussichtspunkt?",
+        "a": "Nehmen Sie den Bus 150 von Salzburg nach Bad Ischl, dann den Zug nach Hallstatt Bahnhof und die Fähre über den See zum Ortsanleger. Vom Anleger gehen Sie ca. 5 Minuten am Ufer entlang. Mit dem Auto parken Sie auf P1/P2/P3 außerhalb des Ortes."
+      },
+      {
+        "q": "Gibt es Parkplätze in der Nähe des Aussichtspunkts?",
+        "a": "Die Altstadt ist autofrei. Nutzen Sie die öffentlichen Parkplätze P1 (Gosaumühle), P2 oder P3 außerhalb des Ortes; vom P1 ist es nur ein kurzer Fußweg. Das Parken wird stundenweise berechnet."
+      },
+      {
+        "q": "Gibt es Toiletten, Cafés oder andere Einrichtungen in der Nähe?",
+        "a": "Der Aussichtspunkt selbst hat keine Einrichtungen, aber öffentliche Toiletten, Cafés, Restaurants und Geschäfte finden Sie ca. 5-10 Gehminuten entfernt im Ortszentrum rund um den Marktplatz und den Schiffsanleger."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Quellen & offizielle Links",
+    "subtitle": "Unabhängiger Besucherführer - offizielle Referenzen zur Überprüfung",
+    "lastUpdated": "Inhalt zuletzt aktualisiert: 9. September 2026",
+    "items": [
+      {
+        "name": "Bundesregierung Österreich",
+        "url": "https://www.oesterreich.gv.at/de",
+        "note": "Offizielles digitales Portal der österreichischen Bundesregierung."
+      },
+      {
+        "name": "Land Oberösterreich",
+        "url": "https://www.land-oberoesterreich.gv.at/",
+        "note": "Landesregierung von Oberösterreich, das Bundesland von Hallstatt."
+      },
+      {
+        "name": "Marktgemeinde Hallstatt",
+        "url": "https://www.hallstatt.ooe.gv.at/",
+        "note": "Offizielle Website der Marktgemeinde Hallstatt."
+      },
+      {
+        "name": "Dachstein Salzkammergut Tourismus",
+        "url": "https://dachstein.salzkammergut.at/",
+        "note": "Regionale Tourismusorganisation der Region Inneres Salzkammergut / Dachstein."
+      },
+      {
+        "name": "Bundesdenkmalamt Österreich (BDA)",
+        "url": "https://www.bda.gv.at/",
+        "note": "Österreichische Denkmalbehörde für das Welterbegebiet Hallstatt-Dachstein."
+      }
+    ],
+    "photoCredit": "Alle auf dieser Website gezeigten Fotos verbleiben im Eigentum ihrer jeweiligen Fotografen. Sämtliche Bildrechte und Urheberrechte liegen bei den jeweiligen Inhabern."
   },
   "footer": {
-    "rights": "© 2026 Old Bridge Heidelberg. All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
+    "rights": "© 2026 Aussichtspunkt Hallstatt (Panoramic Viewpoint - Hallstatt). Alle Rechte vorbehalten.",
+    "officialFullName": "Panoramic Viewpoint - Hallstatt",
+    "napAddress": "Gosaumühlstraße 67, 4830 Hallstatt, Austria",
+    "napPhone": "+43613226909400",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Verwandte Ressourcen & Informationen",
     "officialLinks": {
       "oesterreich": {
-        "name": "Federal Government of Austria",
+        "name": "Bundesregierung Österreich",
         "url": "https://www.oesterreich.gv.at/de"
       },
       "oberoesterreich": {
-        "name": "State Government of Upper Austria",
+        "name": "Land Oberösterreich",
         "url": "https://www.land-oberoesterreich.gv.at/"
       },
       "hallstatt": {
-        "name": "Hallstatt Town Government",
+        "name": "Marktgemeinde Hallstatt",
         "url": "https://www.hallstatt.ooe.gv.at/"
       },
       "dachstein": {
-        "name": "Dachstein Salzkammergut Tourism",
+        "name": "Dachstein Salzkammergut Tourismus",
         "url": "https://dachstein.salzkammergut.at/"
       },
       "bda": {
-        "name": "Federal Monuments Office Austria",
+        "name": "Bundesdenkmalamt Österreich",
         "url": "https://www.bda.gv.at/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "photoCredit": "Alle auf dieser Website gezeigten Fotos verbleiben im Eigentum ihrer jeweiligen Fotografen. Sämtliche Bildrechte und Urheberrechte liegen bei den jeweiligen Inhabern.",
+    "disclaimer": "Diese Website ist ein unabhängiges, von Dritten erstelltes Reiseinformationsprojekt. Wir stehen in keiner Verbindung zur Gemeinde, zur regionalen Tourismusorganisation oder einer anderen offiziellen Institution."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: May 2026",
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: 9. September 2026",
     "sections": [
       {
-        "heading": "1. Information We Collect",
-        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+        "heading": "1. Welche Daten wir sammeln",
+        "content": "Wir erfassen nur die Mindestdaten, die zur Bereitstellung unserer Dienste erforderlich sind. Dazu können gehören: Browsing-Daten (IP-Adresse, Browsertyp, besuchte Seiten), Cookies und ähnliche Technologien sowie Informationen, die Sie uns freiwillig über Kontaktformulare oder E-Mail mitteilen."
       },
       {
-        "heading": "2. How We Use Your Information",
-        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+        "heading": "2. Wie wir Ihre Daten verwenden",
+        "content": "Wir verwenden die gesammelten Informationen, um: die Inhalte und die Benutzererfahrung der Website zu verbessern, den Datenverkehr und Nutzungsmuster zu analysieren, auf Anfragen zu antworten und rechtliche Verpflichtungen zu erfüllen."
       },
       {
-        "heading": "3. Third-Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+        "heading": "3. Dienste von Dritten",
+        "content": "Unsere Website kann Dienste von Drittanbietern wie Google Maps (für die eingebettete Standortkarte) und Google Analytics (für die Verkehrsanalyse) verwenden. Diese Dienste haben eigene Datenschutzrichtlinien."
       },
       {
-        "heading": "4. Your Rights",
-        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+        "heading": "4. Ihre Rechte",
+        "content": "Gemäß der Datenschutz-Grundverordnung (DSGVO) und den zugehörigen Rechtsvorschriften haben Sie das Recht auf: Zugang zu Ihren personenbezogenen Daten, Berichtigung oder Löschung, Widerspruch gegen die Verarbeitung und Beschwerde bei einer Aufsichtsbehörde."
       }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last Updated: May 2026",
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: 9. September 2026",
     "sections": [
       {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+        "heading": "1. Annahme der Bedingungen",
+        "content": "Mit dem Zugriff auf und der Nutzung dieser Website erklären Sie sich mit diesen Nutzungsbedingungen einverstanden."
       },
       {
-        "heading": "2. Use of Content",
-        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+        "heading": "2. Verwendung der Inhalte",
+        "content": "Alle Inhalte dieser Website dienen ausschließlich Informationszwecken. Wir sind eine unabhängige Website mit Reiseinformationen von Dritten und stehen in keiner Verbindung zu einer Touristenattraktion, Regierungsbehörde oder einem kommerziellen Betreiber."
       },
       {
-        "heading": "3. Accuracy of Information",
-        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+        "heading": "3. Richtigkeit der Informationen",
+        "content": "Wir bemühen uns um korrekte und aktuelle Informationen, können aber keine Vollständigkeit oder Richtigkeit garantieren. Öffnungszeiten, Verkehrsmittel und Bedingungen können sich ohne Vorankündigung ändern. Verifizieren Sie wichtige Informationen vor der Reise stets über offizielle Kanäle."
       },
       {
-        "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+        "heading": "4. Geistiges Eigentum",
+        "content": "Das Design und die Originaltexte dieser Website sind urheberrechtlich geschützt. Fotos bleiben Eigentum ihrer jeweiligen Urheber. Die Nutzung von Google-Maps-Daten erfolgt gemäß den Nutzungsbedingungen von Google."
       },
       {
-        "heading": "5. Limitation of Liability",
-        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+        "heading": "5. Haftungsbeschränkung",
+        "content": "Diese Website wird \"wie besehen\" ohne jegliche Gewährleistung bereitgestellt. Wir haften nicht für Schäden, die aus der Nutzung der Informationen dieser Website entstehen, einschließlich, aber nicht beschränkt auf Reiseentscheidungen."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "title": "Cookie-Einstellungen",
+    "description": "Zuletzt aktualisiert: 9. September 2026\n\nWir verwenden Cookies, um Ihr Surferlebnis zu verbessern. Sie können Ihre Präferenzen unten verwalten.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
-      "badge": "Always Active"
+      "title": "Notwendige Cookies",
+      "description": "Diese Cookies sind für das ordnungsgemäße Funktionieren der Website erforderlich und können nicht deaktiviert werden.",
+      "badge": "Immer aktiv"
     },
     "analytics": {
-      "title": "Analytics Cookies",
-      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "title": "Analyse-Cookies",
+      "description": "Sie helfen uns zu verstehen, wie Besucher mit unserer Website interagieren, indem sie anonyme Nutzungsdaten sammeln.",
       "items": [
         {
           "name": "Google Analytics",
-          "status": "Active",
-          "description": "It collects anonymous information about how visitors use our website."
+          "status": "Aktiv",
+          "description": "Sammelt anonyme Informationen darüber, wie Besucher unsere Website nutzen."
         }
       ]
     },
     "marketing": {
-      "title": "Marketing Cookies",
-      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "title": "Marketing-Cookies",
+      "description": "Sie werden verwendet, um relevante Werbung anzuzeigen und die Wirksamkeit von Werbekampagnen zu messen.",
       "items": [
         {
-          "name": "Personalized Ads",
-          "status": "Inactive",
-          "description": "It can show you relevant ads based on your interests."
+          "name": "Personalisierte Anzeigen",
+          "status": "Inaktiv",
+          "description": "Kann Ihnen relevante Anzeigen basierend auf Ihren Interessen zeigen."
         }
       ]
     },
-    "save": "Save Preferences",
-    "saved": "Settings saved!",
+    "save": "Einstellungen speichern",
+    "saved": "Einstellungen gespeichert!",
     "preferences": {
       "items": [
         {
-          "name": "User Preferences",
-          "status": "Active",
-          "description": "Saves your language preferences and website settings."
+          "name": "Benutzerpräferenzen",
+          "status": "Aktiv",
+          "description": "Speichert Ihre Sprachpräferenzen und Website-Einstellungen."
         }
       ],
-      "title": "Preference Cookies",
-      "description": "They remember your settings, such as language and theme preferences."
+      "title": "Präferenz-Cookies",
+      "description": "Sie merken sich Ihre Einstellungen wie Sprache und Theme."
     },
-    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
-    "rejectAll": "Reject All"
+    "consentManagement": "Einwilligungsverwaltung: Sie können Ihre Cookie-Einstellungen jederzeit ändern. Bitte beachten Sie, dass das Deaktivieren bestimmter Cookies die Funktionalität der Website beeinträchtigen kann.",
+    "rejectAll": "Alle ablehnen"
   },
   "officialManagement": {
-    "title": "About Jardim Luís de Camões",
-    "text": "Jardim Luís de Camões is an important memorial garden in the center of Leiria, managed and maintained by the Leiria City Council (Câmara Municipal de Leiria)."
+    "title": "Über den Aussichtspunkt Hallstatt",
+    "text": "Der Aussichtspunkt liegt innerhalb der UNESCO-Kulturlandschaft Hallstatt-Dachstein/Salzkammergut. Die umliegende Uferzone und der historische Ortskern werden von der Marktgemeinde Hallstatt verwaltet und stehen unter dem Schutz des Landes Oberösterreich und des Bundesdenkmalamtes (BDA)."
+  },
+  "facilities": {
+    "title": "Einrichtungen vor Ort & in der Nähe",
+    "subtitle": "Der Aussichtspunkt ist ein frei zugänglicher Aussichtsplatz ohne feste Einrichtungen. Die Liste nennt die allgemeinen Servicetypen in Hallstatt und am Seeufer – nur zur Orientierung.",
+    "note": "Nur zur Orientierung – allgemeine Servicetypen, keine Empfehlung bestimmter Betriebe. Verfügbarkeit und Öffnungszeiten ändern sich saisonal; bitte vor Ort prüfen.",
+    "items": [
+      {
+        "type": "Öffentliche Toiletten",
+        "detail": "Kostenlose und gebührenpflichtige öffentliche Toiletten gibt es entlang der Seepromenade und bei den Schiffs-/Touristenstegen in Hallstatt."
+      },
+      {
+        "type": "Parken",
+        "detail": "Gebührenpflichtige öffentliche Parkplätze am südlichen Ortsrand von Hallstatt (rund um Lahn) sind für Autofahrer am nächsten; im historischen Ortskern ist Parken nicht erlaubt."
+      },
+      {
+        "type": "Restaurants & Cafés",
+        "detail": "Traditionelle Restaurants, Cafés am Seeufer und kleine Imbisse säumen die Promenade und die Fußgängerzone."
+      },
+      {
+        "type": "Unterkünfte",
+        "detail": "Hotels, Pensionen und Ferienwohnungen gibt es in Hallstatt und in Obertraun am gegenüberliegenden Seeufer."
+      },
+      {
+        "type": "Supermarkt & Geschäfte",
+        "detail": "Ein kleiner Supermarkt sowie Geschäfte für Lebensmittel, Getränke und Souvenirs befinden sich im Zentrum von Hallstatt."
+      },
+      {
+        "type": "Tankstellen & E-Ladung",
+        "detail": "Tankstellen und öffentliche Ladepunkte für E-Autos gibt es in Obertraun und entlang des Salzkammergut-Straßennetzes."
+      },
+      {
+        "type": "Bankomat & Banken",
+        "detail": "Bankomaten befinden sich im Zentrum von Hallstatt; Kartenzahlung ist in Restaurants und Geschäften üblich."
+      },
+      {
+        "type": "Tourist-Information",
+        "detail": "Die Tourist-Information Hallstatt bietet Karten, Wanderrouten und Schifffahrtsfahrpläne für die Seeregion."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Wetter am Aussichtspunkt Hallstatt",
+    "subtitle": "Aktuelle Bedingungen plus 7-Tage-Vorschau für den Hallstätter See – mit verständlichen Tipps zu Kleidung, Aktivitäten und Ausrüstung.",
+    "current": "Aktuelles Wetter",
+    "feelsLike": "Gefühlt",
+    "humidity": "Luftfeuchtigkeit",
+    "wind": "Wind",
+    "forecast": "7-Tage-Vorschau",
+    "maxTemp": "Max",
+    "minTemp": "Min",
+    "rainChance": "Regenwahrscheinlichkeit",
+    "loading": "Wetterdaten werden geladen…",
+    "unavailable": "Wetterdaten sind derzeit nicht verfügbar. Bitte versuchen Sie es später erneut.",
+    "conditions": {
+      "clear": "Klar",
+      "partlyCloudy": "Teilweise bewölkt",
+      "overcast": "Bedeckt",
+      "fog": "Nebel",
+      "drizzle": "Nieselregen",
+      "rain": "Regen",
+      "snow": "Schnee",
+      "thunder": "Gewitter"
+    },
+    "uvIndex": "UV-Index",
+    "adviceLabels": {
+      "outfit": "Kleidung",
+      "plan": "Aktivitäten",
+      "gear": "Mitnehmen",
+      "risk": "Risiko-Hinweis"
+    },
+    "advice": {
+      "outfitHot": "Heute warm: leichte, atmungsaktive Kleidung tragen und genug Wasser trinken.",
+      "outfitCool": "Heute kühl (max. ≤10 °C): warme Jacke und Schal einpacken.",
+      "outfitDayNight": "Große Temperaturunterschiede zwischen Tag und Nacht – eine abnehmbare Schicht mitnehmen.",
+      "outfitWind": "Windig, am See böiger: Windjacke tragen, Hüte können wegwehen.",
+      "outfitRain": "Regen erwartet: wasserfeste Jacke oder Schuhe, rutschige Wege beachten.",
+      "outfitSun": "Sonnig: leichte Kleidung reicht; eine dünne Schicht gegen Abendwind mitnehmen.",
+      "outfitSnow": "Schneefall: warme Winterjacke und rutschfeste Schuhe.",
+      "outfitUv": "UV-Strahlung stark – Haut und Augen schützen.",
+      "planSunny": "Klartag ideal für den Aussichtspunkt: ruhiger See am Morgen und schöne Uferspaziergänge.",
+      "planCloudy": "Weiches Licht – den ganzen Tag gut zum Fotografieren und Bummeln am See, ohne starke Sonne.",
+      "planRainProb": "Hohe Regenwahrscheinlichkeit: Outdoor-Pläne flexibel halten, Indoor-Alternative bereithalten.",
+      "planRainLight": "Leichter Regen: die Aussicht ist gedämpft, mit Schirm lässt sich der Spaziergang fortsetzen.",
+      "planNoOutdoor": "Nicht ideal nach draußen: Schiffe/Fähren und die Salzbergbahn können pausieren – besser Museen oder überdachte Orte.",
+      "planWind": "Bei Wind können Bootsfahrten ausfallen; am Aussichtspunkt selbst ist es zugig.",
+      "planHot": "Mittags lange Aufenthalte draußen meiden – früh am Morgen oder abends ist es angenehmer.",
+      "planFog": "Dichter Nebel: die Aussicht ist stark eingeschränkt, Fähren können sich verspäten.",
+      "planSnow": "Schneetag: Stege und Bergpfade können glatt sein, die Bahn kann kurzfristig pausieren.",
+      "gearUmbrella": "Kompaktschirm",
+      "gearRaincoat": "Regenjacke (bei Wind kein langer Schirm)",
+      "gearSunscreen": "Sonnencreme, Sonnenbrille, Sonnenhut",
+      "gearWater": "Trinkwasser",
+      "gearSnow": "Handschuhe und rutschfeste Schuhe",
+      "riskRainHeavy": "Starker Regen: Bachläufe, Schluchten und niedrige Uferbereiche meiden, auf nassen Wegen Vorsicht.",
+      "riskThunder": "Gewitter: nicht am offenen Seeufer, auf Gipfeln oder unter Bäumen aufhalten – Seilbahn und Wanderungen verschieben.",
+      "riskWind": "Sturm: Stege, Werbetafeln und lose Gegenstände meiden; Fähren/Schiffe können den Betrieb einstellen.",
+      "riskFog": "Nebel: schlechte Sicht beim Gehen und Autofahren; Fähren können sich verzögern."
+    },
+    "noRisk": "Aktuell keine Risiko-Hinweise – viel Vergnügen beim Besuch!"
   }
 }
