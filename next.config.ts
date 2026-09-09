@@ -11,9 +11,9 @@ const nextConfig: NextConfig = {
       { protocol: 'https' as const, hostname: 'images.unsplash.com' },
     ],
   },
-  // 确保静态导出时正确处理图片路径
-  output: 'export',
-  distDir: 'out',
+  // Cloudflare Workers (OpenNext) 部署必须用 standalone 产物：
+  // export 模式不生成 .next/standalone，opennext build 会因找不到 pages-manifest.json 而失败。
+  output: 'standalone',
 };
 
 export default withNextIntl(nextConfig);
