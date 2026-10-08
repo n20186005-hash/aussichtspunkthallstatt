@@ -36,6 +36,24 @@ function buildJsonLd(selfUrl: string, locale: string) {
     '@context': 'https://schema.org',
     '@graph': [
       {
+        '@type': 'BreadcrumbList',
+        '@id': `${selfUrl}#breadcrumb`,
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: siteConfig.city,
+            item: baseUrl,
+          },
+          {
+            '@type': 'ListItem',
+            position: 2,
+            name: siteConfig.officialFullName,
+            item: selfUrl,
+          },
+        ],
+      },
+      {
         '@type': 'TouristAttraction',
         '@id': `${selfUrl}#attraction`,
         name: siteConfig.officialFullName,

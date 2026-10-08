@@ -10,6 +10,7 @@ export const siteConfig = {
   officialFullName: "Panoramic Viewpoint - Hallstatt",
   alternateNames: [
     "Aussichtspunkt Hallstatt",
+    "Fotopoint Hallstatt",
     "Place of Silence Hallstatt",
     "哈尔施塔特观景点",
   ],
@@ -23,7 +24,7 @@ export const siteConfig = {
   plusCode: "HJ7X+RX",
   phone: "+43613226909400",
   rating: 4.8,
-  reviewCount: 14323,
+  reviewCount: 14470,
 
   geo: {
     latitude: 47.5645953,
@@ -49,7 +50,7 @@ export const siteConfig = {
 
   ga4Id: "G-HXM22WWPKP",
 
-  lastUpdated: "2026-09-09",
+  lastUpdated: "2026-10-08",
 } as const;
 
 export type SiteConfig = typeof siteConfig;

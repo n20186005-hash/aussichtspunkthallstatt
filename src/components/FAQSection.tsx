@@ -1,6 +1,6 @@
 import { useTranslations } from 'next-intl';
 
-const FAQ_COUNT = 6;
+const FAQ_COUNT = 7;
 
 export default function FAQSection() {
   const t = useTranslations('faq');

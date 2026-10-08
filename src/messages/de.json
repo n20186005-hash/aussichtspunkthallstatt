@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Aussichtspunkt Hallstatt (Österreich): Guide, Lage & Panoramablick",
-    "description": "Der Aussichtspunkt Hallstatt (Panoramic Viewpoint - Hallstatt) – klassischer Postkartenblick am Hallstätter See im Salzkammergut. Karte und beste Zeit für den Besuch."
+    "title": "Aussichtspunkt Hallstatt – Fotopoint, Anreise & Fototipps",
+    "description": "Entdecke den berühmten Fotopoint Hallstatt an der Gosaumühlstraße. Infos zu Anreise, Parken (P1 Lahn), bester Fotozeit und dem kostenlosen Postkartenblick über den See."
   },
   "header": {
     "home": "Startseite",
@@ -14,7 +14,7 @@
     "title": "Aussichtspunkt Hallstatt",
     "subtitle": "Der klassische Postkartenblick auf Hallstatt · Salzkammergut, Österreich",
     "rating": "4.8",
-    "reviewCount": "14.323",
+    "reviewCount": "14.470",
     "hours": "Rund um die Uhr geöffnet",
     "openMaps": "Standort ansehen"
   },
@@ -122,9 +122,9 @@
     "airport": "Vom Flughafen",
     "airportDesc": "Die nächsten Flughäfen sind der Flughafen Salzburg (SZG), ca. 80 km / 1,5 Stunden, und der Flughafen Wien (VIE), ca. 290 km / 3,5 Stunden. Von beiden nehmen Sie den Zug nach Hallstatt über Attnang-Puchheim oder Bad Ischl.",
     "selfDrive": "Mit dem Auto",
-    "selfDriveDesc": "Parken Sie auf den öffentlichen Parkplätzen P1, P2 oder P3 außerhalb des Ortes - das Zentrum ist für Gäste autofrei. Vom P1 (Gosaumühle) sind es nur ca. 5 Gehminuten am See entlang zum Aussichtspunkt; vom P2/P3 etwa 15 Gehminuten über die Seepromenade.",
+    "selfDriveDesc": "Parken Sie auf den öffentlichen Parkplätzen P1, P2 oder P3 außerhalb des Ortes - das Zentrum ist für Gäste autofrei. P1 liegt in Lahn, dem südlichen Ortseingang. Von Lahn/P1 sind es etwa 20-25 Gehminuten über die Seepromenade, oder Sie nehmen den Bus bis zur Haltestelle Gosaumühle und gehen dann noch 5 Minuten zum Aussichtspunkt; von P2/P3 ist es ein ähnlicher Weg am See.",
     "bus": "Öffentliche Verkehrsmittel",
-    "busDesc": "Klassische Route: Bus 150 von Salzburg nach Bad Ischl, dann Zug nach Hallstatt Bahnhof und mit der Fähre (oder zu Fuß) über den See zum Ortsanleger. Vom Anleger gehen Sie ca. 5 Minuten am Seeufer entlang nach Norden.",
+    "busDesc": "Klassische Route: Bus 150 von Salzburg nach Bad Ischl, dann Zug nach Hallstatt Bahnhof und mit der Fähre über den See zum Ortsanleger (der Fußweg führt über die Uferstraße am See entlang, ca. 20-30 Minuten). Vom Anleger gehen Sie ca. 5 Minuten am Seeufer entlang nach Norden.",
     "intercity": "Kurze Strecken",
     "intercityDesc": "Obertraun am gegenüberliegenden Ufer ist ein guter Ausgangspunkt: Parken Sie dort und setzen Sie mit der Fähre oder dem Bus über, um die vollen Parkplätze in der Hochsaison zu vermeiden.",
     "cycling": "Mit dem Rad",
@@ -154,8 +154,8 @@
     "title": "Fotospots & Tipps",
     "spots": [
       {
-        "name": "Der Postkartenblick",
-        "desc": "Stellen Sie sich an das Geländer der Gosaumühlstraße 67 und rahmen Sie Kirchturm, Holzhäuser und Seespiegel in einem Bild."
+        "name": "Der Postkartenblick (Fotopoint)",
+        "desc": "Stellen Sie sich an das Geländer der Gosaumühlstraße 67 - lokal auch Fotopoint genannt - und rahmen Sie Kirchturm, Holzhäuser und Seespiegel in einem Bild."
       },
       {
         "name": "Seepromenade",
@@ -229,7 +229,7 @@
   },
   "reviews": {
     "title": "Besucherbewertungen",
-    "declaration": "Die Bewertungszusammenfassungen spiegeln wiederkehrende Themen aus dem Besucherfeedback auf Google Maps wider (externe Quelle).",
+    "declaration": "Die Zusammenfassungen unten sind illustrative Überblicke über wiederkehrende Themen aus dem Besucherfeedback auf Google Maps (externe Quelle) - keine wörtlichen, einzeln zugeordneten Bewertungen.",
     "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
     "items": [
       {
@@ -312,18 +312,22 @@
       },
       {
         "q": "Gibt es Parkplätze in der Nähe des Aussichtspunkts?",
-        "a": "Die Altstadt ist autofrei. Nutzen Sie die öffentlichen Parkplätze P1 (Gosaumühle), P2 oder P3 außerhalb des Ortes; vom P1 ist es nur ein kurzer Fußweg. Das Parken wird stundenweise berechnet."
+        "a": "Die Altstadt ist autofrei. Nutzen Sie die öffentlichen Parkplätze P1, P2 oder P3 außerhalb des Ortes - P1 liegt in Lahn, dem südlichen Ortseingang. Von Lahn/P1 sind es etwa 20-25 Gehminuten über den See, oder Sie nehmen den Bus bis zur Haltestelle Gosaumühle (5 Minuten zum Aussichtspunkt). Das Parken wird stundenweise berechnet."
       },
       {
         "q": "Gibt es Toiletten, Cafés oder andere Einrichtungen in der Nähe?",
         "a": "Der Aussichtspunkt selbst hat keine Einrichtungen, aber öffentliche Toiletten, Cafés, Restaurants und Geschäfte finden Sie ca. 5-10 Gehminuten entfernt im Ortszentrum rund um den Marktplatz und den Schiffsanleger."
+      },
+      {
+        "q": "Wie unterscheidet sich dieser Aussichtspunkt vom Skywalk?",
+        "a": "Das sind zwei verschiedene Orte. Dieser Panorama-Aussichtspunkt (Fotopoint) ist ein kostenloser Straßenrand-Standort an der Gosaumühlstraße 67 direkt am See, auf Höhe des Ortes - ideal für das klassische Postkartenfoto. Der Skywalk ist eine kostenpflichtige Aussichtsplattform oben im Salzbergwerk Salzwelten, die man mit der Standseilbahn erreicht, und bietet einen Vogelblick hoch über dem Ort. Für das ikonische Spiegelbild wählen Sie den Fotopoint am See, für den Überblick den Skywalk."
       }
     ]
   },
   "sources": {
     "title": "Quellen & offizielle Links",
     "subtitle": "Unabhängiger Besucherführer - offizielle Referenzen zur Überprüfung",
-    "lastUpdated": "Inhalt zuletzt aktualisiert: 9. September 2026",
+    "lastUpdated": "Inhalt zuletzt aktualisiert: 8. Oktober 2026",
     "items": [
       {
         "name": "Bundesregierung Österreich",
@@ -389,7 +393,7 @@
   },
   "privacy": {
     "title": "Datenschutzerklärung",
-    "lastUpdated": "Zuletzt aktualisiert: 9. September 2026",
+    "lastUpdated": "Zuletzt aktualisiert: 8. Oktober 2026",
     "sections": [
       {
         "heading": "1. Welche Daten wir sammeln",
@@ -411,7 +415,7 @@
   },
   "terms": {
     "title": "Nutzungsbedingungen",
-    "lastUpdated": "Zuletzt aktualisiert: 9. September 2026",
+    "lastUpdated": "Zuletzt aktualisiert: 8. Oktober 2026",
     "sections": [
       {
         "heading": "1. Annahme der Bedingungen",
@@ -437,7 +441,7 @@
   },
   "cookieSettings": {
     "title": "Cookie-Einstellungen",
-    "description": "Zuletzt aktualisiert: 9. September 2026\n\nWir verwenden Cookies, um Ihr Surferlebnis zu verbessern. Sie können Ihre Präferenzen unten verwalten.",
+    "description": "Zuletzt aktualisiert: 8. Oktober 2026\n\nWir verwenden Cookies, um Ihr Surferlebnis zu verbessern. Sie können Ihre Präferenzen unten verwalten.",
     "essential": {
       "title": "Notwendige Cookies",
       "description": "Diese Cookies sind für das ordnungsgemäße Funktionieren der Website erforderlich und können nicht deaktiviert werden.",

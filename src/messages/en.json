@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Panoramic Viewpoint - Hallstatt, Austria: Visitor Guide & Location",
-    "description": "Panoramic Viewpoint - Hallstatt is the classic postcard viewpoint in Hallstatt, Austria, overlooking Lake Hallstatt. Location map & best time to visit."
+    "title": "Panoramic Viewpoint Hallstatt – Photo Spot & Directions",
+    "description": "Visit Hallstatt's famous panoramic photo spot (Fotopoint) on Gosaumühlstraße. Find the exact location, free 24-hour access, walking directions from the ferry/P1 parking and the best time for photos."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "Panoramic Viewpoint - Hallstatt",
     "subtitle": "The classic postcard view of Hallstatt · Salzkammergut, Austria",
     "rating": "4.8",
-    "reviewCount": "14,323",
+    "reviewCount": "14,470",
     "hours": "Open 24 Hours",
     "openMaps": "View Location"
   },
@@ -122,9 +122,9 @@
     "airport": "From the Airport",
     "airportDesc": "The nearest airports are Salzburg Airport (SZG), about 80 km / 1.5 hours by road, and Vienna International Airport (VIE), about 290 km / 3.5 hours. From either airport, take a train to Hallstatt via Attnang-Puchheim or Bad Ischl.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "Drive to Hallstatt and leave your car in the public parking lots P1, P2 or P3 outside the town - the centre is car-free for visitors. From P1 Gosaumühle the viewpoint is only about a 5-minute walk along the lake; from P2/P3 walk about 15 minutes along the lakeside promenade.",
+    "selfDriveDesc": "Drive to Hallstatt and leave your car in the public parking lots P1, P2 or P3 outside the town - the centre is car-free for visitors. P1 is at Lahn, the southern entrance. From Lahn/P1, walk about 20-25 minutes along the lakeside promenade, or take a bus to the Gosaumühle stop and then a 5-minute walk to the viewpoint; from P2/P3 it is a similar lakeside walk.",
     "bus": "Public Transport",
-    "busDesc": "Classic route: take bus 150 from Salzburg to Bad Ischl, change to the train to Hallstatt Bahnhof, then take the ferry (or walk) across the lake to the town dock. From the dock, walk north along the lake for about 5 minutes to reach the viewpoint.",
+    "busDesc": "Classic route: take bus 150 from Salzburg to Bad Ischl, change to the train to Hallstatt Bahnhof, then take the ferry across the lake to the town dock (the walking route follows the lakeside road around the shore, about 20-30 minutes). From the dock, walk north along the lake for about 5 minutes to reach the viewpoint.",
     "intercity": "Short-Distance Travel",
     "intercityDesc": "Obertraun on the far shore is a good base: park there and cross to Hallstatt by ferry or local bus to avoid the busy parking lots in peak season.",
     "cycling": "Cycling",
@@ -154,8 +154,8 @@
     "title": "Photo Spots & Tips",
     "spots": [
       {
-        "name": "The Postcard Viewpoint",
-        "desc": "Stand at the roadside rail at Gosaumühlstraße 67 and frame the church spire, the timber houses and the lake reflection in one shot."
+        "name": "The Postcard Viewpoint (Fotopoint)",
+        "desc": "Stand at the roadside rail at Gosaumühlstraße 67 - the locally known Fotopoint - and frame the church spire, the timber houses and the lake reflection in one shot."
       },
       {
         "name": "Lakeside Promenade",
@@ -229,7 +229,7 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Review summaries below reflect recurring themes found in visitor feedback on Google Maps (external source).",
+    "declaration": "The summaries below are illustrative overviews of recurring themes from visitor feedback on Google Maps (external source) - they are not verbatim, individually attributed reviews.",
     "moreReviews": "View More Reviews on Google Maps",
     "items": [
       {
@@ -312,18 +312,22 @@
       },
       {
         "q": "Is there parking near the viewpoint?",
-        "a": "The old town is car-free. Use the public parking lots P1 (Gosaumühle), P2 or P3 outside the town; P1 is only a short walk from the viewpoint. Parking is charged per hour."
+        "a": "The old town is car-free. Use the public parking lots P1, P2 or P3 outside the town - P1 is at Lahn, the southern entrance. From Lahn/P1 it is about a 20-25 minute walk along the lake, or take a bus to the Gosaumühle stop (5-minute walk to the viewpoint). Parking is charged per hour."
       },
       {
         "q": "Are there toilets, cafes or other facilities nearby?",
         "a": "The viewpoint itself has no facilities, but public toilets, cafes, restaurants and shops are a 5-10 minute walk away in the town centre, near the Market Square and the ferry landing."
+      },
+      {
+        "q": "How is this viewpoint different from the Skywalk?",
+        "a": "They are two separate places. This Panoramic Viewpoint (Fotopoint) is a free, roadside spot at Gosaumühlstraße 67 on the lakeshore, level with the village - ideal for the classic postcard photo. The Skywalk is a paid viewing platform at the top of the Salzwelten salt mine, reached by funicular, giving a bird's-eye panorama high above the town. Choose the lakeside Fotopoint for the iconic reflection shot, the Skywalk for an aerial view."
       }
     ]
   },
   "sources": {
     "title": "Sources & Official Links",
     "subtitle": "Independent visitor guide - official references for verification",
-    "lastUpdated": "Content last updated: September 9, 2026",
+    "lastUpdated": "Content last updated: October 8, 2026",
     "items": [
       {
         "name": "Federal Government of Austria",
@@ -389,7 +393,7 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: September 9, 2026",
+    "lastUpdated": "Last Updated: October 8, 2026",
     "sections": [
       {
         "heading": "1. Information We Collect",
@@ -411,7 +415,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: September 9, 2026",
+    "lastUpdated": "Last Updated: October 8, 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
@@ -437,7 +441,7 @@
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Last Updated: September 9, 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "description": "Last Updated: October 8, 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
     "essential": {
       "title": "Essential Cookies",
       "description": "These cookies are essential for the website to function properly and cannot be disabled.",

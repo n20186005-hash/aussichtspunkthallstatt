@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "哈尔施塔特观景点（奥地利）· Panoramic Viewpoint - Hallstatt 指南与地图",
-    "description": "哈尔施塔特观景点（Panoramic Viewpoint - Hallstatt，德语名 Aussichtspunkt Hallstatt）位于奥地利哈尔施塔特 Gosaumühlstraße 67 湖滨，是拍摄明信片式湖景的经典机位。含位置地图、最佳拍摄时间与萨尔茨卡默古特湖区交通、周边景点攻略。"
+    "title": "哈尔施塔特全景观景点｜经典明信片机位（Fotopoint）与交通攻略",
+    "description": "哈尔施塔特最经典的湖畔摄影位置在哪里？查看 Panoramic Viewpoint Hallstatt（Fotopoint）的准确位置、从渡轮码头/P1 停车场的步行路线、最佳拍照时间与全天免费参观攻略。"
   },
   "header": {
     "home": "首页",
@@ -14,7 +14,7 @@
     "title": "哈尔施塔特观景点（奥地利）",
     "subtitle": "经典明信片机位 · Panoramic Viewpoint - Hallstatt，萨尔茨卡默古特（奥地利）",
     "rating": "4.8",
-    "reviewCount": "14,323",
+    "reviewCount": "14,470",
     "hours": "24 小时开放",
     "openMaps": "查看位置"
   },
@@ -122,9 +122,9 @@
     "airport": "从机场出发",
     "airportDesc": "最近的机场是萨尔茨堡机场（SZG），公路约 80 公里 / 1.5 小时；维也纳国际机场（VIE）约 290 公里 / 3.5 小时。两地均可经 Attnang-Puchheim 或巴德伊舍换乘火车前往哈尔施塔特。",
     "selfDrive": "自驾",
-    "selfDriveDesc": "自驾请将车停在镇外的 P1、P2 或 P3 公共停车场——老城对访客实行无车化管理。从 P1（Gosaumühle）沿湖畔步行约 5 分钟即可到达观景点；从 P2/P3 沿湖滨步道步行约 15 分钟。",
+    "selfDriveDesc": "自驾请将车停在镇外的 P1、P2 或 P3 公共停车场——老城对访客实行无车化管理。P1 位于 Lahn（镇南入口）。从 Lahn/P1 沿湖滨步道步行约 20-25 分钟，或乘巴士到 Gosaumühle 站后再步行约 5 分钟到达观景点；从 P2/P3 同样需沿湖步行一段。",
     "bus": "公共交通",
-    "busDesc": "经典路线：从萨尔茨堡乘 150 路巴士到巴德伊舍（Bad Ischl），换乘火车到 Hallstatt Bahnhof 站，再乘渡轮（或步行）过湖到镇内码头。下船后沿湖向北步行约 5 分钟即达观景点。",
+    "busDesc": "经典路线：从萨尔茨堡乘 150 路巴士到巴德伊舍（Bad Ischl），换乘火车到 Hallstatt Bahnhof 站，再乘渡轮过湖到镇内码头（步行路线则沿湖滨公路绕湖，约 20-30 分钟）。下船后沿湖向北步行约 5 分钟即达观景点。",
     "intercity": "短途交通",
     "intercityDesc": "湖对岸的上特劳恩（Obertraun）是很好的住宿据点：从那里可乘渡轮或本地巴士过湖到哈尔施塔特，旺季可避开拥挤的停车场。",
     "cycling": "骑行",
@@ -154,8 +154,8 @@
     "title": "拍摄点位与技巧",
     "spots": [
       {
-        "name": "明信片机位",
-        "desc": "站在 Gosaumühlstraße 67 路边的栏杆处，将教堂尖顶、木屋老城与湖面倒影收入同一画面。"
+        "name": "明信片机位（Fotopoint）",
+        "desc": "站在 Gosaumühlstraße 67 路边的栏杆处——当地称为 Fotopoint——将教堂尖顶、木屋老城与湖面倒影收入同一画面。"
       },
       {
         "name": "湖滨步道",
@@ -229,7 +229,7 @@
   },
   "reviews": {
     "title": "游客评价",
-    "declaration": "以下评价摘要基于 Google 地图上访客反馈中的常见主题整理（外部来源）。",
+    "declaration": "以下摘要为基于 Google 地图访客反馈中常见主题整理的说明性概述（外部来源），并非逐字引用、且未标注到具体个人的评价。",
     "moreReviews": "在 Google 地图上查看更多评价",
     "items": [
       {
@@ -312,18 +312,22 @@
       },
       {
         "q": "观景点附近有停车场吗？",
-        "a": "老城禁止机动车通行。请使用镇外 P1（Gosaumühle）、P2 或 P3 公共停车场，其中 P1 距观景点最近，只需步行很短距离。停车按小时收费。"
+        "a": "老城禁止机动车通行。请使用镇外 P1、P2 或 P3 公共停车场——P1 位于 Lahn（镇南入口）。从 Lahn/P1 沿湖步行约 20-25 分钟，或乘巴士到 Gosaumühle 站（距观景点步行 5 分钟）。停车按小时收费。"
       },
       {
         "q": "观景点附近有卫生间、咖啡馆等设施吗？",
         "a": "观景点本身没有配套设施，但步行 5-10 分钟即可到达镇中心的公共卫生间、咖啡馆、餐厅与商店（市场广场与渡轮码头一带）。"
+      },
+      {
+        "q": "这个观景点与 Skywalk 有何不同？",
+        "a": "这是两个完全不同的地方。本观景点（Fotopoint）是 Gosaumühlstraße 67 湖滨路边一处免费开放的机位，与村庄齐平——适合拍摄经典明信片般的湖面倒影。Skywalk 则是萨尔茨韦尔滕盐矿顶部的付费观景平台，需乘登山小火车到达，从高空俯瞰全镇。想要标志性的倒影照选湖畔 Fotopoint，想要高空全景选 Skywalk。"
       }
     ]
   },
   "sources": {
     "title": "资料来源与官方链接",
     "subtitle": "独立游客指南——以下为可核验的官方参考来源",
-    "lastUpdated": "内容最后更新：2026 年 9 月 9 日",
+    "lastUpdated": "内容最后更新：2026 年 10 月 8 日",
     "items": [
       {
         "name": "奥地利联邦政府",
@@ -389,7 +393,7 @@
   },
   "privacy": {
     "title": "隐私政策",
-    "lastUpdated": "最后更新：2026 年 9 月 9 日",
+    "lastUpdated": "最后更新：2026 年 10 月 8 日",
     "sections": [
       {
         "heading": "1. 我们收集的信息",
@@ -411,7 +415,7 @@
   },
   "terms": {
     "title": "服务条款",
-    "lastUpdated": "最后更新：2026 年 9 月 9 日",
+    "lastUpdated": "最后更新：2026 年 10 月 8 日",
     "sections": [
       {
         "heading": "1. 条款接受",
@@ -437,7 +441,7 @@
   },
   "cookieSettings": {
     "title": "Cookie 设置",
-    "description": "最后更新：2026 年 9 月 9 日\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "description": "最后更新：2026 年 10 月 8 日\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
     "essential": {
       "title": "必要 Cookie",
       "description": "这些 Cookie 是网站正常运行所必需的，无法禁用。",
