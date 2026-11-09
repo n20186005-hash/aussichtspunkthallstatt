@@ -10,7 +10,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/panoramic-viewpoint-hallstatt-1.jpg"
-          alt="Panoramic Viewpoint - Hallstatt - Main view in Hallstatt, Austria"
+          alt="Place of Silence - Hallstatt - Main view in Hallstatt, Austria"
           className="w-full h-full object-cover"
           loading="eager"
         />

@@ -59,7 +59,7 @@ function buildJsonLd(selfUrl: string, locale: string) {
         name: siteConfig.officialFullName,
         alternateName: siteConfig.alternateNames,
         description:
-          'Comprehensive visitor guide to Panoramic Viewpoint - Hallstatt (Aussichtspunkt Hallstatt) in Hallstatt, Upper Austria, Austria. Location map, opening details, nearby landmarks and travel tips.',
+          'Name and respectful-conduct information for Place of Silence in Hallstatt, based on local tourism correspondence.',
         url: siteConfig.baseUrl,
         image: [siteConfig.galleryImage1],
         isAccessibleForFree: true,
@@ -79,28 +79,6 @@ function buildJsonLd(selfUrl: string, locale: string) {
           longitude: siteConfig.geo.longitude,
         },
         hasMap: siteConfig.mapsUrl,
-        openingHoursSpecification: [
-          {
-            '@type': 'OpeningHoursSpecification',
-            dayOfWeek: [
-              'Monday',
-              'Tuesday',
-              'Wednesday',
-              'Thursday',
-              'Friday',
-              'Saturday',
-              'Sunday',
-            ],
-            opens: '00:00',
-            closes: '23:59',
-          },
-        ],
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: siteConfig.rating,
-          reviewCount: siteConfig.reviewCount,
-          bestRating: 5,
-        },
         sameAs: [
           siteConfig.mapsUrl,
           siteConfig.authorityUrl,
@@ -132,7 +110,7 @@ function buildJsonLd(selfUrl: string, locale: string) {
         url: selfUrl,
         name: siteConfig.officialFullName,
         description:
-          'Comprehensive visitor guide to Panoramic Viewpoint - Hallstatt (Aussichtspunkt Hallstatt) in Hallstatt, Upper Austria, Austria.',
+          'Name and respectful-conduct information for Place of Silence in Hallstatt.',
         isPartOf: { '@id': `${baseUrl}/#website` },
         primaryImageOfPage: { '@id': `${selfUrl}#attraction` },
         dateModified: siteConfig.lastUpdated,

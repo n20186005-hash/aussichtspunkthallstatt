@@ -27,8 +27,8 @@ export default function Header() {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href={`/${locale}`} className="font-display text-base sm:text-lg font-semibold tracking-tight whitespace-nowrap" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }} aria-label="Panoramic Viewpoint - Hallstatt">
-          Panoramic Viewpoint<span className="hidden lg:inline"> - Hallstatt</span>
+        <a href={`/${locale}`} className="font-display text-base sm:text-lg font-semibold tracking-tight whitespace-nowrap" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }} aria-label="Place of Silence - Hallstatt">
+          Place of Silence<span className="hidden lg:inline"> - Hallstatt</span>
         </a>
 
         <nav className="hidden md:flex items-center gap-6">

@@ -1,4 +1,4 @@
-// Single source of truth for the Panoramic Viewpoint - Hallstatt entity.
+// Single source of truth for the Place of Silence - Hallstatt entity.
 // Used by Hero/Gallery/Reviews/MapEmbed/layout metadata/JSON-LD so that
 // NAP data and links stay identical across the whole site.
 
@@ -7,10 +7,10 @@ export const siteConfig = {
   baseUrl: "https://aussichtspunkthallstatt.com",
 
   // Entity (Google Maps listing data)
-  officialFullName: "Panoramic Viewpoint - Hallstatt",
+  officialFullName: "Place of Silence - Hallstatt",
   alternateNames: [
     "Aussichtspunkt Hallstatt",
-    "Fotopoint Hallstatt",
+    "Panoramic Viewpoint - Hallstatt",
     "Place of Silence Hallstatt",
     "哈尔施塔特观景点",
   ],
@@ -50,7 +50,7 @@ export const siteConfig = {
 
   ga4Id: "G-HXM22WWPKP",
 
-  lastUpdated: "2026-10-08",
+  lastUpdated: "2026-11-09",
 } as const;
 
 export type SiteConfig = typeof siteConfig;

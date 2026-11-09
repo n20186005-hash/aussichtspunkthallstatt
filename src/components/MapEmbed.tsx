@@ -26,7 +26,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Google Maps - Panoramic Viewpoint Hallstatt, Gosaumühlstraße 67, 4830 Hallstatt, Austria"
+            title="Google Maps - Place of Silence Hallstatt, Gosaumühlstraße 67, 4830 Hallstatt, Austria"
           />
         </div>
 

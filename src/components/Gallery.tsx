@@ -16,7 +16,7 @@ export default function Gallery() {
 
   const photos = photoIndices.map((num, i) => ({
     src: `/gallery/panoramic-viewpoint-hallstatt-${num}.jpg`,
-    alt: captions?.[i] || `Panoramic Viewpoint - Hallstatt ${num}`,
+    alt: captions?.[i] || `Place of Silence - Hallstatt ${num}`,
   }));
 
   const displayedPhotos = showAll ? photos : photos.slice(0, previewCount);

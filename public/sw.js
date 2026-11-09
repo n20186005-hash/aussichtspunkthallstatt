@@ -1,5 +1,5 @@
-/* Service Worker for Panoramic Viewpoint - Hallstatt */
-const CACHE_NAME = 'pv-hallstatt-v2026-09-09';
+/* Service Worker for Place of Silence - Hallstatt */
+const CACHE_NAME = 'place-of-silence-v2026-11-09';
 const OFFLINE_FALLBACK = '/de';
 
 self.addEventListener('install', (event) => {

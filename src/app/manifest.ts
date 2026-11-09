@@ -4,10 +4,10 @@ export const dynamic = 'force-static';
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Panoramic Viewpoint - Hallstatt | Visitor Guide',
-    short_name: 'Viewpoint Hallstatt',
+    name: 'Place of Silence - Hallstatt | Visitor Guide',
+    short_name: 'Place of Silence',
     description:
-      'Visitor guide to Panoramic Viewpoint - Hallstatt (Aussichtspunkt Hallstatt) in Hallstatt, Upper Austria, Austria.',
+      'Name and considerate-conduct information for Place of Silence in Hallstatt.',
     start_url: '/de',
     scope: '/',
     display: 'standalone',
