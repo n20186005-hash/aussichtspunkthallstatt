@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Place of Silence Hallstatt – Name & Hinweise zum respektvollen Verhalten",
-    "description": "Sachliche Informationen zum Place of Silence in Hallstatt: Namensänderung nach Auskunft von Salzkammergut, Rücksicht auf Anwohner und Hinweise zur Orientierung."
+    "description": "Place of Silence in Hallstatt: Orientierung, Rücksicht auf Anwohner, Privatsphäre und sicheres Verhalten am Straßenrand."
   },
   "header": {
     "home": "Startseite",
@@ -26,7 +26,7 @@
       "Oberösterreich",
       "Österreich"
     ],
-    "description": "Der früher als „Viewpoint“ beziehungsweise „Panoramic Viewpoint - Hallstatt“ bezeichnete Ort wird nach Auskunft von Nina Stöckl-Heininger, Gäste- und Partnerservice und Ortskoordination Hallstatt bei Salzkammergut Dachstein, als „Place of Silence“ geführt. In ihrer E-Mail vom 3. November 2026 bittet sie ausdrücklich darum, den Ort nicht aktiv zu bewerben. Diese Seite dient daher der sachlichen Einordnung und einem rücksichtsvollen Verhalten, nicht der Bewerbung als Fotoziel. Der Ort an der Gosaumühlstraße ist nicht mit dem Skywalk oberhalb von Hallstatt zu verwechseln.",
+    "description": "Der Place of Silence liegt am Seeufer in Hallstatt und ist nicht mit dem Skywalk oberhalb des Ortes zu verwechseln.",
     "nearbyText": "Informationen zum Ortszentrum, zu Kulturstätten und zu aktuellen Zugangsbedingungen finden Sie bei der Marktgemeinde Hallstatt und im regionalen Tourismusportal. Daraus ergibt sich keine Empfehlung, den Place of Silence in eine Besichtigungsroute aufzunehmen.",
     "visitGuide": {
       "title": "Rücksicht im Wohnumfeld",
@@ -40,7 +40,7 @@
     "alsoKnownAs": {
       "title": "Einordnung des Ortes",
       "items": [
-        "Name: Place of Silence, nach Auskunft von Nina Stöckl-Heininger / Salzkammergut Dachstein.",
+        "Name: Place of Silence.",
         "Kontext: Hallstatt gehört zur UNESCO-Kulturlandschaft Hallstatt-Dachstein/Salzkammergut.",
         "Wohnumfeld: Die Gosaumühlstraße ist Teil des alltäglichen Lebens im Ort.",
         "Abgrenzung: Der Skywalk beim Salzbergwerk ist ein anderer Standort."
@@ -74,7 +74,7 @@
   },
   "basicInfo": {
     "title": "Basisinformationen",
-    "officialName": "Name laut Auskunft",
+    "officialName": "Name",
     "officialNameValue": "Place of Silence Hallstatt",
     "type": "Art der Sehenswürdigkeit",
     "typeValue": "Ort der Ruhe im Wohnumfeld",
@@ -100,8 +100,8 @@
     "winter": "Salzwelten Hallstatt & Skywalk",
     "winterTime": "Öffnungszeiten und mögliche Schließungen auf der offiziellen Website prüfen",
     "warning": "Verkehrssicherheit & Privatsphäre",
-    "warningTime": "Halten Sie Fahrbahn, Gehwege und Einfahrten frei. Respektieren Sie die Privatsphäre und beachten Sie vor Ort geltende Regeln. Die Bitte um Zurückhaltung ist keine Aussage über ein allgemeines gesetzliches Besuchs- oder Fotografierverbot.",
-    "tip": "Bitte werben Sie nicht aktiv für den Place of Silence. Es werden keine empfohlenen Fotozeiten oder Gruppenbesuche genannt."
+    "warningTime": "Halten Sie Fahrbahn, Gehwege und Einfahrten frei. Respektieren Sie die Privatsphäre und beachten Sie vor Ort geltende Regeln.",
+    "tip": "Vermeiden Sie Lärm und Menschenansammlungen in Wohnbereichen."
   },
   "tickets": {
     "title": "Zugang & weitere Ortsinformationen",
@@ -144,8 +144,6 @@
       "Beachten Sie Beschilderungen; diese Seite empfiehlt keine Route mit dem Place of Silence als Ziel."
     ],
     "supplements": [
-      "Die Bitte, den Ort nicht aktiv zu bewerben, stammt aus der E-Mail von Nina Stöckl-Heininger / Salzkammergut Dachstein vom 3. November 2026.",
-      "Die Bitte ist keine Bestätigung eines allgemeinen gesetzlichen Besuchs- oder Fotografierverbots.",
       "Aktuelle Regeln und Anweisungen vor Ort sind maßgeblich."
     ],
     "supplementsTitle": "Hinweise für den Besuch"
@@ -155,7 +153,7 @@
     "spots": [
       {
         "name": "Kein beworbener Fotopoint",
-        "desc": "Der Place of Silence wird nicht als Fotoziel oder als Station einer Fototour empfohlen."
+        "desc": "Respektieren Sie die Ruhe und Privatsphäre der Anwohner."
       },
       {
         "name": "Freie Wege",
@@ -171,7 +169,7 @@
       }
     ],
     "tips": "Hinweis zur Darstellung",
-    "tipsContent": "Es werden keine Kamerapositionen, besten Lichtzeiten oder Tipps zur Umgehung von Besuchergruppen empfohlen. Beachten Sie die örtlichen Regeln und die Bitte um Ruhe."
+    "tipsContent": "Respektieren Sie die Privatsphäre der Anwohner und halten Sie öffentliche Wege frei."
   },
   "hotels": {
     "title": "Unterkunft & Gastronomie",
@@ -229,7 +227,7 @@
   },
   "reviews": {
     "title": "Hinweise zum respektvollen Verhalten",
-    "declaration": "Redaktionelle Hinweise, keine persönlichen Besucherbewertungen oder Zitate. Grundlage der Neuausrichtung ist die E-Mail von Nina Stöckl-Heininger / Salzkammergut Dachstein vom 3. November 2026.",
+    "declaration": "Praktische redaktionelle Hinweise, keine persönlichen Besucherbewertungen oder Zitate.",
     "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
     "items": [
       {
@@ -273,12 +271,6 @@
         "date": "Redaktioneller Hinweis",
         "rating": 5,
         "text": "Vorhandene Bilder dienen der Einordnung und nicht der Bewerbung des Ortes."
-      },
-      {
-        "name": "Herkunft",
-        "date": "Redaktioneller Hinweis",
-        "rating": 4,
-        "text": "Die Bitte um Zurückhaltung stammt von Nina Stöckl-Heininger / Salzkammergut Dachstein, E-Mail vom 3. November 2026."
       }
     ]
   },
@@ -295,16 +287,16 @@
     "subtitle": "Sachliche Hinweise zum Place of Silence",
     "items": [
       {
-        "q": "Was bedeutet die neue Bezeichnung Place of Silence?",
-        "a": "Nina Stöckl-Heininger von Salzkammergut Dachstein teilte am 3. November 2026 mit, dass der frühere „Viewpoint“ in „Place of Silence“ umbenannt wurde. Sie bittet darum, den Ort nicht aktiv zu bewerben."
+        "q": "Wo liegt der Place of Silence?",
+        "a": "Der Place of Silence liegt am Seeufer von Hallstatt im Bereich der Gosaumühlstraße."
       },
       {
         "q": "Welche Zugangshinweise gelten?",
-        "a": "Beachten Sie aktuelle Beschilderungen und örtliche Anweisungen. Die Namensauskunft und die Bitte, den Ort nicht aktiv zu bewerben, sind keine Bestätigung eines allgemeinen gesetzlichen Besuchsverbots."
+        "a": "Beachten Sie aktuelle Beschilderungen und örtliche Anweisungen. Diese Seite garantiert keinen jederzeitigen Zugang."
       },
       {
-        "q": "Gibt es Empfehlungen für Fotozeiten?",
-        "a": "Nein. Um der Bitte aus Hallstatt Rechnung zu tragen, empfehlen wir weder bestimmte Aufnahmezeiten noch Fotopositionen oder gezielte Besuche."
+        "q": "Wie können Besucher Rücksicht nehmen?",
+        "a": "Sprechen Sie leise, respektieren Sie Privatgrundstücke und halten Sie Straßen, Wege und Zugänge frei."
       },
       {
         "q": "Wo finde ich Verkehrsverbindungen nach Hallstatt?",
@@ -326,8 +318,8 @@
   },
   "sources": {
     "title": "Quellen & offizielle Links",
-    "subtitle": "Namensauskunft und redaktionelle Hinweise mit Herkunftsangabe",
-    "lastUpdated": "Redaktionell aktualisiert: 9. November 2026; Namensauskunft und Bitte zur Zurückhaltung: E-Mail vom 3. November 2026",
+    "subtitle": "Allgemeine öffentliche Informationsquellen",
+    "lastUpdated": "Inhalt aktualisiert: 9. November 2026.",
     "items": [
       {
         "name": "Bundesregierung Österreich",
@@ -343,11 +335,6 @@
         "name": "Marktgemeinde Hallstatt",
         "url": "https://www.hallstatt.ooe.gv.at/",
         "note": "Offizielle Website der Marktgemeinde Hallstatt."
-      },
-      {
-        "name": "Dachstein Salzkammergut Tourismus",
-        "url": "https://dachstein.salzkammergut.at/",
-        "note": "Namensauskunft „Place of Silence“ und Bitte, den Ort nicht aktiv zu bewerben: Nina Stöckl-Heininger, Gäste- und Partnerservice / Ortskoordination Hallstatt, Salzkammergut Dachstein, E-Mail vom 3. November 2026. Redaktionell eingearbeitet am 9. November 2026; keine Prüfung oder Genehmigung dieser Website durch die Organisation."
       },
       {
         "name": "Bundesdenkmalamt Österreich (BDA)",
@@ -487,7 +474,7 @@
   },
   "officialManagement": {
     "title": "Name & Herkunft der Hinweise",
-    "text": "Die Namensänderung zu Place of Silence und die Bitte, den Ort nicht aktiv zu bewerben, wurden von Nina Stöckl-Heininger (Gäste- und Partnerservice, Ortskoordination Hallstatt), Salzkammergut Dachstein, in ihrer E-Mail vom 3. November 2026 mitgeteilt. Redaktionelle Aktualisierung: 9. November 2026. Diese Herkunftsangabe bedeutet nicht, dass die Organisation diese Website geprüft oder genehmigt hat."
+    "text": "Der Place of Silence liegt am bewohnten Seeufer von Hallstatt."
   },
   "facilities": {
     "title": "Einrichtungen vor Ort & in der Nähe",

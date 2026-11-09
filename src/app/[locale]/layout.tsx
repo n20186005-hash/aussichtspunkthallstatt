@@ -59,7 +59,7 @@ function buildJsonLd(selfUrl: string, locale: string) {
         name: siteConfig.officialFullName,
         alternateName: siteConfig.alternateNames,
         description:
-          'Name and respectful-conduct information for Place of Silence in Hallstatt, based on local tourism correspondence.',
+          'Practical information for Place of Silence in Hallstatt, including quiet conduct and resident privacy.',
         url: siteConfig.baseUrl,
         image: [siteConfig.galleryImage1],
         isAccessibleForFree: true,

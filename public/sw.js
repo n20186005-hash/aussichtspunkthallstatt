@@ -1,5 +1,5 @@
 /* Service Worker for Place of Silence - Hallstatt */
-const CACHE_NAME = 'place-of-silence-v2026-11-09';
+const CACHE_NAME = 'place-of-silence-v2026-11-09-privacy';
 const OFFLINE_FALLBACK = '/de';
 
 self.addEventListener('install', (event) => {

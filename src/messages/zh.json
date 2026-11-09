@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Place of Silence Hallstatt｜名称说明与安静通行须知",
-    "description": "原称 Viewpoint 的地点现称 Place of Silence。依据 Salzkammergut Dachstein 的 Nina Stöckl-Heininger 来信，说明名称、居民隐私及安静通行注意事项，不将此地作为摄影打卡目的地推广。"
+    "description": "哈尔施塔特 Place of Silence 的位置、安静通行、居民隐私与道路安全信息。"
   },
   "header": {
     "home": "首页",
@@ -26,7 +26,7 @@
       "上奥地利州",
       "奥地利"
     ],
-    "description": "Place of Silence 位于哈尔施塔特湖畔的 Gosaumühlstraße 一带。Salzkammergut Dachstein 的 Nina Stöckl-Heininger 在 2026 年 11 月 3 日来信中说明，原称“Viewpoint”的地点已更名为“Place of Silence”，并再次建议不要主动推广此处。本页保留必要的名称与通行信息，不提供摄影打卡推荐。这里与盐矿山上的 Skywalk 是不同地点；湖畔周围也是居民生活的空间，请保持安静、尊重私人区域。",
+    "description": "Place of Silence 位于哈尔施塔特湖畔，与城镇上方的 Skywalk 是不同地点。",
     "nearbyText": "哈尔施塔特的历史中心、市场广场和盐业遗产属于更广泛的地方文化背景。了解这些内容不需要把 Place of Silence 设为行程中的必到一站。周边场所的开放情况请查各自官方信息。",
     "visitGuide": {
       "title": "安静通行须知",
@@ -40,7 +40,7 @@
     "alsoKnownAs": {
       "title": "名称与地方背景",
       "items": [
-        "现名 Place of Silence：名称信息由 Salzkammergut Dachstein 的 Nina Stöckl-Heininger 提供。",
+        "名称：Place of Silence。",
         "过去资料可能使用 Viewpoint、Panoramic Viewpoint 或 Fotopoint 等名称，仅用于识别旧记录。",
         "哈尔施塔特位于 1997 年列入世界遗产名录的文化景观区域。",
         "这里是湖畔生活环境的一部分，而不是应主动引流的摄影设施。"
@@ -145,8 +145,7 @@
     ],
     "supplements": [
       "不占用车道，不翻越护栏，不为拍照妨碍他人。",
-      "不拍摄住宅内部或未经同意的居民。",
-      "Nina 的来信是不主动推广的建议，不应扩大解释为新的法定禁令。"
+      "不拍摄住宅内部或未经同意的居民。"
     ],
     "supplementsTitle": "尊重当地生活"
   },
@@ -155,7 +154,7 @@
     "spots": [
       {
         "name": "不设置打卡推荐",
-        "desc": "本页不提供机位、拍摄时间或摄影路线推荐，以遵循不主动推广 Place of Silence 的建议。"
+        "desc": "经过时保持安静，尊重居民隐私。"
       },
       {
         "name": "公共通行优先",
@@ -229,7 +228,7 @@
   },
   "reviews": {
     "title": "阅读访客反馈时的注意事项",
-    "declaration": "以下为本站编辑提示，不是具名游客评价，也不代表当地机构审核或推荐。过去的热门摄影评价不应覆盖现今的安静通行与居民隐私需要。",
+    "declaration": "以下为实用编辑提示，不是具名游客评价或评分。",
     "moreReviews": "查看外部地图资料",
     "items": [
       {
@@ -296,15 +295,15 @@
     "items": [
       {
         "q": "Place of Silence 是什么地方？",
-        "a": "这是哈尔施塔特湖畔原称 Viewpoint 的地点。Salzkammergut Dachstein 的 Nina Stöckl-Heininger 在 2026 年 11 月 3 日来信中说明其已更名为 Place of Silence。旧资料可能仍使用 Panoramic Viewpoint 或 Fotopoint。"
+        "a": "Place of Silence 位于哈尔施塔特湖畔的 Gosaumühlstraße 一带。"
       },
       {
-        "q": "来信要求是什么？",
-        "a": "Nina 再次建议不要主动推广 Place of Silence。因此本页不再提供摄影机位、最佳拍摄时间或必去路线推荐。此建议不应被表述为新的法定禁令。"
+        "q": "通行时应注意什么？",
+        "a": "请遵守现场标识和当地指示。本页不保证任何时段都可通行。"
       },
       {
-        "q": "这里适合安排摄影打卡吗？",
-        "a": "本页不建议将其设为摄影打卡目的地。经过时请保持安静，不聚集、不占用道路、不侵犯居民隐私。"
+        "q": "如何尊重当地居民？",
+        "a": "保持安静，尊重私人区域，不堵塞道路、通道和居民出入口。"
       },
       {
         "q": "如何查询哈尔施塔特公共交通？",
@@ -327,13 +326,8 @@
   "sources": {
     "title": "资料来源与官方链接",
     "subtitle": "名称与不主动推广建议的来源，以及相关官方资料入口",
-    "lastUpdated": "本页修订：2026 年 11 月 9 日；来信日期：2026 年 11 月 3 日",
+    "lastUpdated": "内容更新：2026 年 11 月 9 日。",
     "items": [
-      {
-        "name": "Salzkammergut Dachstein · Nina Stöckl-Heininger",
-        "url": "https://dachstein.salzkammergut.at/",
-        "note": "名称信息及不主动推广建议由 Nina Stöckl-Heininger（宾客与合作伙伴服务、哈尔施塔特地方协调）于 2026 年 11 月 3 日来信提供。她表示原 Viewpoint 已更名为 Place of Silence，并可接收文本节选；这不代表她或所属机构已审核、认可或推荐本站。"
-      },
       {
         "name": "奥地利联邦政府",
         "url": "https://www.oesterreich.gv.at/de",
@@ -492,7 +486,7 @@
   },
   "officialManagement": {
     "title": "名称信息来源",
-    "text": "名称“Place of Silence”及不主动推广的建议由 Salzkammergut Dachstein 的 Nina Stöckl-Heininger（宾客与合作伙伴服务、哈尔施塔特地方协调）于 2026 年 11 月 3 日来信提供。本站据此于 2026 年 11 月 9 日调整名称及推广文案；此署名说明资料来源，不表示机构背书或审稿通过。"
+    "text": "Place of Silence 位于哈尔施塔特湖畔的居民生活区域。"
   },
   "facilities": {
     "title": "地区服务信息",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Place of Silence Hallstatt – Name & Respectful Conduct",
-    "description": "Information about the name Place of Silence in Hallstatt, with guidance on quiet behaviour, resident privacy and road safety, based on local tourism correspondence."
+    "description": "Place of Silence in Hallstatt: practical orientation, quiet conduct, resident privacy and road safety."
   },
   "header": {
     "home": "Home",
@@ -26,7 +26,7 @@
       "Upper Austria",
       "Austria"
     ],
-    "description": "Place of Silence is the name supplied for the place formerly called “Viewpoint” in Hallstatt. Nina Stöckl-Heininger of Salzkammergut Dachstein explained the change in her email of 3 November 2026 and asked that the location not be actively promoted. This page provides identification and considerate-conduct information rather than recommending a photo stop. It concerns the lakeside location, not the separate Salzwelten Skywalk above the town.",
+    "description": "Place of Silence is a lakeside location in Hallstatt, distinct from the Skywalk above the town.",
     "nearbyText": "Hallstatt is a lived-in town as well as a cultural landscape. Its homes, streets and daily routines deserve consideration. Consult the regional tourism portal for general town information rather than treating this residential location as a required stop.",
     "visitGuide": {
       "title": "Visiting Tips",
@@ -40,7 +40,7 @@
     "alsoKnownAs": {
       "title": "Name & Local Context",
       "items": [
-        "Current name: Place of Silence, as supplied by Nina Stöckl-Heininger in her email of 3 November 2026.",
+        "Current name: Place of Silence.",
         "Older references may call it Viewpoint or Aussichtspunkt Hallstatt; those names are retained here only for identification.",
         "The lakeside surroundings include private homes and ordinary local traffic.",
         "The name update is not evidence of a new legal access ban or approval of this website."
@@ -106,7 +106,7 @@
   "tickets": {
     "title": "Ticket Information",
     "outdoor": "Place of Silence – Hallstatt",
-    "outdoorPrice": "No dedicated admission ticket is described in the correspondence; local access instructions take precedence.",
+    "outdoorPrice": "Follow current local access instructions.",
     "lighthouse": "Paid Attractions Nearby",
     "adults": "Salzwelten Hallstatt (Salt Mine & Skywalk)",
     "adultsPrice": "Ticketed attraction (funicular ride included)",
@@ -145,8 +145,7 @@
     ],
     "supplements": [
       "Do not step into the carriageway to obtain a view or photograph.",
-      "Respect private homes, gardens and residents’ daily routines.",
-      "The local contact asked that Place of Silence not be actively promoted."
+      "Respect private homes, gardens and residents’ daily routines."
     ],
     "supplementsTitle": "Visiting Notes"
   },
@@ -155,7 +154,7 @@
     "spots": [
       {
         "name": "Place of Silence",
-        "desc": "Not presented here as a photo destination. Respect the request not to actively promote this residential location."
+        "desc": "Keep noise low and respect residents’ privacy."
       },
       {
         "name": "People & homes",
@@ -229,7 +228,7 @@
   },
   "reviews": {
     "title": "Visitor Considerations",
-    "declaration": "Editorial notes based on the local contact’s request for quiet and non-promotion. These are not individual visitor reviews, ratings or an endorsement of this website.",
+    "declaration": "Practical editorial notes, not individual visitor reviews or ratings.",
     "moreReviews": "Location reference on Google Maps",
     "items": [
       {
@@ -273,12 +272,6 @@
         "date": "",
         "rating": 0,
         "text": "Do not seek an empty photograph by arriving at unsociable hours."
-      },
-      {
-        "name": "Source",
-        "date": "",
-        "rating": 0,
-        "text": "Nina Stöckl-Heininger of Salzkammergut Dachstein supplied the name and non-promotion advice on 3 November 2026."
       }
     ]
   },
@@ -299,12 +292,12 @@
         "a": "Place of Silence – Hallstatt is located at Gosaumühlstraße 67 along the lakeside road on the northern edge of Hallstatt, in Upper Austria, Austria. It is a short 5-10 minute walk north of the Market Square."
       },
       {
-        "q": "Does the new name change access rules?",
-        "a": "The email reports the name Place of Silence and asks that it not be actively promoted. It does not establish a new legal access ban or guarantee 24-hour access. Follow current on-site signs and local instructions."
+        "q": "Which access instructions apply?",
+        "a": "Follow current on-site signs and local instructions. This guide does not guarantee access at all times."
       },
       {
-        "q": "Does this guide recommend a time for photography?",
-        "a": "No. Following the local contact’s request, we do not promote photography visits or recommend times to obtain an empty shot. Quiet, privacy and safe passage take priority."
+        "q": "How can visitors be considerate?",
+        "a": "Keep noise low, respect private property and leave roads and entrances clear."
       },
       {
         "q": "How do I get to the viewpoint from Salzburg?",
@@ -327,13 +320,8 @@
   "sources": {
     "title": "Sources & Official Links",
     "subtitle": "Independent visitor guide - official references for verification",
-    "lastUpdated": "Name and conduct guidance updated: 9 November 2026. Source email: 3 November 2026.",
+    "lastUpdated": "Content updated: 9 November 2026.",
     "items": [
-      {
-        "name": "Nina Stöckl-Heininger · Salzkammergut Dachstein",
-        "url": "https://dachstein.salzkammergut.at/",
-        "note": "Guest and Partner Service / Hallstatt local coordination. In her email of 3 November 2026, Nina supplied the name Place of Silence and requested that it not be actively promoted. The email is the source of this guidance; the linked regional portal is a reference, not publication of the email or an endorsement of this website."
-      },
       {
         "name": "Federal Government of Austria",
         "url": "https://www.oesterreich.gv.at/de",
@@ -492,7 +480,7 @@
   },
   "officialManagement": {
     "title": "About Place of Silence – Hallstatt",
-    "text": "Name and non-promotion guidance supplied by Nina Stöckl-Heininger (Guest and Partner Service / Hallstatt local coordination), Salzkammergut Dachstein, in her email of 3 November 2026. Incorporated by the editors on 9 November 2026. This attribution identifies the source; it does not mean the organisation has reviewed or endorsed this website."
+    "text": "Place of Silence lies beside Hallstatt’s lakeside residential area."
   },
   "facilities": {
     "title": "On-site & Nearby Amenities",
