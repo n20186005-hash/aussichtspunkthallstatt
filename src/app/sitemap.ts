@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next';
+import { guidePages } from '@/lib/guidePages';
 
 export const dynamic = 'force-static';
 
@@ -29,6 +30,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
         alternates: {
           languages: buildAlternates(route),
         },
+      });
+    }
+    for (const route of (locale === 'en' ? ['/guide', ...guidePages.map(page => `/guide/${page.slug}`)] : [])) {
+      sitemap.push({
+        url: `${baseUrl}/${locale}${route}`,
+        lastModified: new Date('2026-11-11'),
+        changeFrequency: 'monthly',
+        priority: route === '/guide' ? 0.7 : 0.6,
       });
     }
   }

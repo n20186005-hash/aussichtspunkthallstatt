@@ -57,6 +57,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
+            <a href="/en/guide" style={{ color: 'var(--text-secondary)' }} className="hover:underline">Hallstatt Travel Guides</a>
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>
@@ -76,6 +77,9 @@ export default function Footer() {
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('photoCredit')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">
+            如需本網站技術支援，請聯繫： <a className="hover:underline" href="mailto:laupetter72@gmail.com">laupetter72@gmail.com</a>
+          </p>
         </div>
       </div>
     </footer>
