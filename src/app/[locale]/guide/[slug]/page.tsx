@@ -29,12 +29,6 @@ const visitInfoChip: Record<Locale, string> = {
   zh: '游览信息：请查当地告示',
 };
 
-export function generateStaticParams() {
-  return routing.locales.flatMap((locale) =>
-    guidePages.map((p) => ({ locale, slug: p.slug }))
-  );
-}
-
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const { locale, slug } = await params;
   const p = guidePages.find((x) => x.slug === slug);
