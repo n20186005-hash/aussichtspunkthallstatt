@@ -32,12 +32,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
       });
     }
-    for (const route of (locale === 'en' ? ['/guide', ...guidePages.map(page => `/guide/${page.slug}`)] : [])) {
+    // Guide index + all 31 guide articles for every locale.
+    const guideRoutes = ['/guide', ...guidePages.map((page) => `/guide/${page.slug}`)];
+    for (const route of guideRoutes) {
+      const languages: Record<string, string> = {};
+      for (const l of locales) {
+        languages[l] = `${baseUrl}/${l}${route}`;
+      }
+      languages['x-default'] = `${baseUrl}/en${route}`;
       sitemap.push({
         url: `${baseUrl}/${locale}${route}`,
         lastModified: new Date('2026-11-11'),
         changeFrequency: 'monthly',
         priority: route === '/guide' ? 0.7 : 0.6,
+        alternates: { languages },
       });
     }
   }

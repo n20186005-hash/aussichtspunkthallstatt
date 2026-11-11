@@ -33,7 +33,7 @@ export default function Header() {
 
         <nav className="hidden md:flex items-center gap-6">
           <a
-            href="/en/guide"
+            href={`/${locale}/guide`}
             className="text-sm font-medium transition-colors"
             style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
           >

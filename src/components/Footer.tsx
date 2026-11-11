@@ -4,9 +4,15 @@ import { siteConfig } from '@/config';
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const tg = useTranslations('guide');
   const locale = useLocale();
   const prefix = `/${locale}`;
   const officialLinks = Object.values(t.raw('officialLinks') || {}) as {name: string, url: string}[];
+  const supportText: Record<string, string> = {
+    en: 'For website technical support, please contact:',
+    de: 'Bei technischen Fragen zu dieser Website kontaktieren Sie bitte:',
+    zh: '如需本网站技术支持，请联系：',
+  };
 
   return (
     <footer
@@ -57,7 +63,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
-            <a href="/en/guide" style={{ color: 'var(--text-secondary)' }} className="hover:underline">Hallstatt Travel Guides</a>
+            <a href={`/${locale}/guide`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">{tg('breadcrumbGuides')}</a>
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>
@@ -78,7 +84,8 @@ export default function Footer() {
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('photoCredit')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">
-            如需本網站技術支援，請聯繫： <a className="hover:underline" href="mailto:laupetter72@gmail.com">laupetter72@gmail.com</a>
+            {supportText[locale] || supportText.en}{' '}
+            <a className="hover:underline" href="mailto:laupetter72@gmail.com">laupetter72@gmail.com</a>
           </p>
         </div>
       </div>
