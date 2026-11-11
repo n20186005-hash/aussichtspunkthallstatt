@@ -32,6 +32,13 @@ export default function Header() {
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
+          <a
+            href="/en/guide"
+            className="text-sm font-medium transition-colors"
+            style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
+          >
+            {locale === 'zh' ? '景点指南' : locale === 'de' ? 'Reiseführer' : 'Travel Guides'}
+          </a>
           {(['gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
