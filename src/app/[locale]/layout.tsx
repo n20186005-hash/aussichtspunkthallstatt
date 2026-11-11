@@ -5,10 +5,6 @@ import { routing } from '@/i18n/routing';
 import { siteConfig } from '@/config';
 import type { Metadata, Viewport } from 'next';
 
-export function generateStaticParams() {
-  return routing.locales.map((locale) => ({ locale }));
-}
-
 export const viewport: Viewport = {
   themeColor: '#3a7a8d',
 };
