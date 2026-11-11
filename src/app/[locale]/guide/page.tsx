@@ -14,9 +14,7 @@ function pick(locale: string, loc: Loc): string {
   return loc[locale as Locale] ?? loc.en;
 }
 
-export function generateStaticParams() {
-  return routing.locales.map((locale) => ({ locale }));
-}
+export const dynamic = 'force-dynamic';
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const { locale } = await params;

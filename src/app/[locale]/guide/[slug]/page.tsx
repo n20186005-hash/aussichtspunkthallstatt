@@ -17,6 +17,8 @@ function pick(locale: string, loc: Loc): string {
   return loc[locale as Locale] ?? loc.en;
 }
 
+export const dynamic = 'force-dynamic';
+
 const htmlLangMap: Record<string, string> = { zh: 'zh-CN', en: 'en', de: 'de' };
 const regionText: Record<Locale, string> = {
   en: 'Hallstatt / Salzkammergut, Upper Austria, Austria',
