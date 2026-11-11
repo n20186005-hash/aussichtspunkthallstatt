@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import { guidePages } from '@/lib/guidePages';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import {redirect} from 'next/navigation';
 
 export const metadata: Metadata = {
   title: 'Hallstatt Travel Guides: Views, Walks, Transport and Nearby Places',
@@ -12,6 +13,7 @@ export const metadata: Metadata = {
 
 export default async function GuideIndex({params}:{params:Promise<{locale:string}>}) {
   const {locale} = await params;
+  if(locale!=='en')redirect('/en/guide');
   return <><Header/><main className="max-w-6xl mx-auto px-5 py-14" style={{color:'var(--text-primary)'}}>
     <p className="text-sm uppercase tracking-widest" style={{color:'var(--accent)'}}>Hallstatt visitor planning</p>
     <h1 className="text-4xl font-bold mt-3 mb-5">Explore Hallstatt: practical guides</h1>
