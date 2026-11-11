@@ -18,6 +18,7 @@ import FAQSection from '@/components/FAQSection';
 import SourcesSection from '@/components/SourcesSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
+import NearbyGuides from '@/components/NearbyGuides';
 
 export default async function HomePage({
   params,
@@ -48,6 +49,7 @@ export default async function HomePage({
         <FAQSection />
         <SourcesSection />
         <MapEmbed />
+        <NearbyGuides locale={locale} />
       </main>
       <Footer />
     </>
