@@ -10,7 +10,7 @@ export default function IntroSection() {
     <section className="section-padding">
       <div className="max-w-5xl mx-auto">
         {/* Geographic breadcrumb: Full name → City → Region → Country */}
-        <nav aria-label="Breadcrumb" className="mb-6">
+        <nav aria-label={t('breadcrumbLabel')} className="mb-6">
           <ol className="flex flex-wrap items-center gap-1.5 text-xs" style={{ color: 'var(--text-muted)' }}>
             {breadcrumb.map((item, i) => (
               <li key={i} className="flex items-center gap-1.5">

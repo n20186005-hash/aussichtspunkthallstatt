@@ -1,6 +1,8 @@
 import Link from 'next/link';
+import { nearbyCopy } from './NearbyAttractionGuide';
 import { guidePages } from '@/lib/guidePages';
 import { attractionDetails } from '@/lib/guideDetails';
+import { nearbyAttractions, townNamesZh, type NearbyPlace } from '@/lib/nearbyAttractions';
 import { getTranslations } from 'next-intl/server';
 import type { Locale, Loc } from '@/lib/guidePages';
 
@@ -19,6 +21,13 @@ const featured = [
   'five-fingers',
   'obertraun',
 ];
+
+const placesByTown = new Map<string, NearbyPlace[]>();
+for (const place of nearbyAttractions) {
+  const places = placesByTown.get(place.town);
+  if (places) places.push(place);
+  else placesByTown.set(place.town, [place]);
+}
 
 export default async function NearbyGuides({ locale }: { locale: string }) {
   const t = await getTranslations('guide');
@@ -63,8 +72,30 @@ export default async function NearbyGuides({ locale }: { locale: string }) {
             );
           })}
         </div>
+        <section id="nearby-attractions" className="mt-12 pt-8 border-t scroll-mt-24" style={{ borderColor: 'var(--border-color)' }}>
+          <h2 className="font-display text-2xl font-bold mb-5">{nearbyCopy.title[loc]}</h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {Array.from(placesByTown, ([town, places]) => (
+              <div key={town} className="rounded-2xl border p-4" style={{ background: 'var(--bg-primary)', borderColor: 'var(--border-color)' }}>
+                <h3 className="font-semibold mb-2">{loc === 'zh' ? townNamesZh[places[0].town] : town}</h3>
+                <ul className="space-y-1 text-sm">
+                  {places.map((place) => (
+                    <li key={place.slug}>
+                      <Link className="underline underline-offset-2 py-1 inline-block" href={`/${locale}/guide/${place.slug}`}>
+                        {place.title[loc]}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </section>
         <Link href={`/${locale}/guide`} className="inline-block mt-8 font-semibold underline" style={{ color: 'var(--accent)' }}>
           {t('nearbyAll')}
+        </Link>
+        <Link href={`/${locale}/guide#nearby-attractions`} className="inline-block mt-8 ms-6 font-semibold underline" style={{ color: 'var(--accent)' }}>
+          {nearbyCopy.title[loc]}
         </Link>
       </div>
     </section>

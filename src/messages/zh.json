@@ -8,7 +8,10 @@
     "gallery": "照片",
     "reviews": "通行提示",
     "map": "地图",
-    "backToHome": "返回首页"
+    "backToHome": "返回首页",
+    "guides": "景点指南",
+    "languagePicker": "选择语言",
+    "themePicker": "切换配色主题"
   },
   "hero": {
     "title": "Place of Silence Hallstatt",
@@ -16,7 +19,8 @@
     "rating": "4.8",
     "reviewCount": "14,470",
     "hours": "通行请遵守现场标识",
-    "openMaps": "查看位置"
+    "openMaps": "查看位置",
+    "photoAlt": "哈尔施塔特宁静之地实景"
   },
   "intro": {
     "title": "关于 Place of Silence",
@@ -45,7 +49,8 @@
         "哈尔施塔特位于 1997 年列入世界遗产名录的文化景观区域。",
         "这里是湖畔生活环境的一部分，而不是应主动引流的摄影设施。"
       ]
-    }
+    },
+    "breadcrumbLabel": "面包屑导航"
   },
   "knowledge": {
     "title": "了解哈尔施塔特",
@@ -87,7 +92,7 @@
     "phoneValue": "+43613226909400",
     "address": "地址",
     "addressValue": "Gosaumühlstraße 67, 4830 Hallstatt, 奥地利",
-    "plusCode": "Plus Code",
+    "plusCode": "地图位置编码",
     "plusCodeValue": "HJ7X+RX 哈尔施塔特, 奥地利"
   },
   "hours": {
@@ -224,7 +229,10 @@
       "湖面与晨光"
     ],
     "viewAll": "查看 Google 地图地点资料",
-    "showAllPhotos": "显示全部照片"
+    "showAllPhotos": "显示全部照片",
+    "close": "关闭相册",
+    "previous": "上一张照片",
+    "next": "下一张照片"
   },
   "reviews": {
     "title": "阅读访客反馈时的注意事项",
@@ -359,7 +367,7 @@
   "footer": {
     "rights": "© 2026 Place of Silence Hallstatt 独立信息指南。保留所有权利。",
     "officialFullName": "Place of Silence Hallstatt",
-    "napAddress": "Gosaumühlstraße 67, 4830 Hallstatt, Austria",
+    "napAddress": "Gosaumühlstraße 67, 4830 Hallstatt, 奥地利",
     "napPhone": "+43613226909400",
     "privacy": "隐私政策",
     "terms": "服务条款",

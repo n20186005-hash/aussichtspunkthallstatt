@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { guidePages } from '@/lib/guidePages';
+import { nearbyAttractions } from '@/lib/nearbyAttractions';
 
 export const dynamic = 'force-static';
 
@@ -32,8 +33,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
       });
     }
-    // Guide index + all 31 guide articles for every locale.
-    const guideRoutes = ['/guide', ...guidePages.map((page) => `/guide/${page.slug}`)];
+    const guideRoutes = ['/guide', ...[...guidePages, ...nearbyAttractions].map((page) => `/guide/${page.slug}`)];
     for (const route of guideRoutes) {
       const languages: Record<string, string> = {};
       for (const l of locales) {
@@ -42,7 +42,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       languages['x-default'] = `${baseUrl}/en${route}`;
       sitemap.push({
         url: `${baseUrl}/${locale}${route}`,
-        lastModified: new Date('2026-11-11'),
+        lastModified: new Date(route === '/guide' || nearbyAttractions.some((place) => route === `/guide/${place.slug}`) ? '2026-11-23' : '2026-11-11'),
         changeFrequency: 'monthly',
         priority: route === '/guide' ? 0.7 : 0.6,
         alternates: { languages },

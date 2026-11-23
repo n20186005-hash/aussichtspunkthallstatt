@@ -8,7 +8,10 @@
     "gallery": "Gallery",
     "reviews": "Visitor notes",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "guides": "Travel Guides",
+    "languagePicker": "Choose language",
+    "themePicker": "Toggle color theme"
   },
   "hero": {
     "title": "Place of Silence – Hallstatt",
@@ -16,7 +19,8 @@
     "rating": "4.8",
     "reviewCount": "14,470",
     "hours": "Follow local signs",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "photoAlt": "View of Place of Silence in Hallstatt"
   },
   "intro": {
     "title": "About Place of Silence – Hallstatt",
@@ -45,7 +49,8 @@
         "The lakeside surroundings include private homes and ordinary local traffic.",
         "The name update is not evidence of a new legal access ban or approval of this website."
       ]
-    }
+    },
+    "breadcrumbLabel": "Breadcrumb"
   },
   "knowledge": {
     "title": "Discover Hallstatt",
@@ -224,7 +229,10 @@
       "Light and reflections on the lake"
     ],
     "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "showAllPhotos": "Show All Photos",
+    "close": "Close gallery",
+    "previous": "Previous photo",
+    "next": "Next photo"
   },
   "reviews": {
     "title": "Visitor Considerations",
@@ -272,6 +280,12 @@
         "date": "",
         "rating": 0,
         "text": "Do not seek an empty photograph by arriving at unsociable hours."
+      },
+      {
+        "name": "Quiet and respect",
+        "date": "",
+        "rating": 0,
+        "text": "Photography should never disturb residents. Keep voices low and follow posted signs."
       }
     ]
   },

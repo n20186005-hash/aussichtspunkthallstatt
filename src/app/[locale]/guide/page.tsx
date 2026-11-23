@@ -6,6 +6,8 @@ import { siteConfig } from '@/config';
 import { routing } from '@/i18n/routing';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import { nearbyCopy } from '@/components/NearbyAttractionGuide';
+import { nearbyAttractions, townNamesZh } from '@/lib/nearbyAttractions';
 import type { Locale, Loc } from '@/lib/guidePages';
 
 type Params = { params: Promise<{ locale: string }> };
@@ -42,13 +44,13 @@ export default async function GuideIndex({ params }: Params) {
     notFound();
   }
   setRequestLocale(locale);
-  const t = await getTranslations('guide');
+  const t = await getTranslations({ locale, namespace: 'guide' });
   const loc = locale as Locale;
 
   return (
     <>
-      <Header />
-      <main className="max-w-6xl mx-auto px-5 py-14" style={{ color: 'var(--text-primary)' }}>
+      <Header solid />
+      <main className="max-w-6xl mx-auto px-5 pt-24 pb-14" style={{ color: 'var(--text-primary)' }}>
         <p className="text-sm uppercase tracking-widest" style={{ color: 'var(--accent)' }}>
           {t('indexEyebrow')}
         </p>
@@ -56,6 +58,26 @@ export default async function GuideIndex({ params }: Params) {
         <p className="max-w-3xl mb-10 leading-8" style={{ color: 'var(--text-secondary)' }}>
           {t('indexSubtitle')}
         </p>
+        <section id="nearby-attractions" className="scroll-mt-20 mb-14">
+          <h2 className="text-2xl font-bold mb-5">{nearbyCopy.title[loc]}</h2>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+            {nearbyAttractions.map((place) => (
+              <Link
+                key={place.slug}
+                href={`/${locale}/guide/${place.slug}`}
+                className="rounded-2xl overflow-hidden border hover:shadow-lg transition-shadow"
+                style={{ borderColor: 'var(--border-color)', background: 'var(--bg-secondary)' }}
+              >
+                <img src={`/guide/nearby/${place.slug}.webp`} alt="" loading="lazy" className="w-full h-40 object-cover" />
+                <div className="p-5">
+                  <span className="text-xs uppercase tracking-wide" style={{ color: 'var(--accent)' }}>{loc === 'zh' ? townNamesZh[place.town] : place.town}</span>
+                  <h3 className="text-xl font-semibold my-2">{place.title[loc]}</h3>
+                  <p className="text-sm leading-6" style={{ color: 'var(--text-secondary)' }}>{place.intro[loc]}</p>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
           {guidePages.map((p) => (
             <Link

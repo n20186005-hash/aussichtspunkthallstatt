@@ -8,7 +8,10 @@
     "gallery": "Galerie",
     "reviews": "Hinweise",
     "map": "Karte",
-    "backToHome": "Zurück zur Startseite"
+    "backToHome": "Zurück zur Startseite",
+    "guides": "Reiseführer",
+    "languagePicker": "Sprache wählen",
+    "themePicker": "Farbschema wechseln"
   },
   "hero": {
     "title": "Place of Silence Hallstatt",
@@ -16,7 +19,8 @@
     "rating": "4.8",
     "reviewCount": "14.470",
     "hours": "Aktuelle Hinweise vor Ort beachten",
-    "openMaps": "Standort ansehen"
+    "openMaps": "Standort ansehen",
+    "photoAlt": "Blick auf den Place of Silence in Hallstatt"
   },
   "intro": {
     "title": "Über den Place of Silence",
@@ -45,7 +49,8 @@
         "Wohnumfeld: Die Gosaumühlstraße ist Teil des alltäglichen Lebens im Ort.",
         "Abgrenzung: Der Skywalk beim Salzbergwerk ist ein anderer Standort."
       ]
-    }
+    },
+    "breadcrumbLabel": "Wegweiser"
   },
   "knowledge": {
     "title": "Örtlicher Hintergrund",
@@ -144,7 +149,8 @@
       "Beachten Sie Beschilderungen; diese Seite empfiehlt keine Route mit dem Place of Silence als Ziel."
     ],
     "supplements": [
-      "Aktuelle Regeln und Anweisungen vor Ort sind maßgeblich."
+      "Aktuelle Regeln und Anweisungen vor Ort sind maßgeblich.",
+      "Privathäuser, Gärten und den Alltag der Anwohner respektieren."
     ],
     "supplementsTitle": "Hinweise für den Besuch"
   },
@@ -223,7 +229,10 @@
       "Spiegelung im See"
     ],
     "viewAll": "Weitere Fotos auf Google Maps ansehen",
-    "showAllPhotos": "Alle Fotos anzeigen"
+    "showAllPhotos": "Alle Fotos anzeigen",
+    "close": "Galerie schließen",
+    "previous": "Vorheriges Foto",
+    "next": "Nächstes Foto"
   },
   "reviews": {
     "title": "Hinweise zum respektvollen Verhalten",
@@ -271,6 +280,12 @@
         "date": "Redaktioneller Hinweis",
         "rating": 5,
         "text": "Vorhandene Bilder dienen der Einordnung und nicht der Bewerbung des Ortes."
+      },
+      {
+        "name": "Ruhe und Rücksicht",
+        "date": "",
+        "rating": 0,
+        "text": "Beim Fotografieren die Anwohner nicht stören. Bitte leise bleiben und die Beschilderung vor Ort beachten."
       }
     ]
   },
@@ -337,6 +352,11 @@
         "note": "Offizielle Website der Marktgemeinde Hallstatt."
       },
       {
+        "name": "Dachstein Salzkammergut Tourismus",
+        "url": "https://dachstein.salzkammergut.at/",
+        "note": "Offizielle Tourismusinformation für das Innere Salzkammergut und das Dachsteingebiet."
+      },
+      {
         "name": "Bundesdenkmalamt Österreich (BDA)",
         "url": "https://www.bda.gv.at/",
         "note": "Österreichische Denkmalbehörde für das Welterbegebiet Hallstatt-Dachstein."
@@ -347,7 +367,7 @@
   "footer": {
     "rights": "© 2026 Place of Silence Hallstatt – unabhängige Informationsseite. Alle Rechte vorbehalten.",
     "officialFullName": "Place of Silence Hallstatt",
-    "napAddress": "Gosaumühlstraße 67, 4830 Hallstatt, Austria",
+    "napAddress": "Gosaumühlstraße 67, 4830 Hallstatt, Österreich",
     "napPhone": "+43613226909400",
     "privacy": "Datenschutzerklärung",
     "terms": "Nutzungsbedingungen",

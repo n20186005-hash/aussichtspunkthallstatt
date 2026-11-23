@@ -42,7 +42,8 @@ function CookieToggle({
       <button
         onClick={locked ? undefined : onToggle}
         className={`cookie-toggle flex-shrink-0 ${enabled ? 'active' : ''} ${locked ? 'opacity-60 cursor-not-allowed' : ''}`}
-        aria-label={`Toggle ${label}`}
+        aria-label={label}
+        aria-pressed={enabled}
         disabled={locked}
       />
     </div>
@@ -94,7 +95,7 @@ export default function CookieSettingsClient() {
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 pt-24 pb-16 sm:pb-24">
         <a
           href={homeHref}
           className="inline-flex items-center gap-2 text-sm font-medium mb-10 transition-colors"

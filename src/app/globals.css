@@ -184,3 +184,28 @@ h1, h2, h3, h4, h5, h6 {
 a {
   transition: color 0.2s ease;
 }
+
+.destination-guide > section {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  padding: clamp(1.125rem, 3vw, 2rem);
+}
+
+.destination-guide > section > h2 {
+  font-family: var(--font-display);
+  margin-bottom: 0.75rem;
+}
+
+.destination-guide > section > h2::after {
+  content: '';
+  display: block;
+  width: 2.5rem;
+  height: 2px;
+  margin-top: 0.5rem;
+  background: var(--accent);
+}
+
+.destination-guide > section > a {
+  color: var(--accent);
+}

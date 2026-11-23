@@ -1,8 +1,8 @@
 'use client';
 
 import type { CSSProperties } from 'react';
-import { useLocale } from 'next-intl';
-import { usePathname } from '@/i18n/routing';
+import { useLocale, useTranslations } from 'next-intl';
+import { usePathname } from 'next/navigation';
 
 const languages = [
   { code: 'de', name: 'Deutsch' },
@@ -14,10 +14,9 @@ export default function LanguageToggle({ scrolled = false }: { scrolled?: boolea
   const locale = useLocale();
   const pathname = usePathname();
 
-  // next-intl's usePathname returns the path without the locale prefix
-  // (e.g. "/" for the home page, "/privacy-policy" for a sub page).
-  const localizedHref = (code: string) =>
-    `/${code}${pathname === '/' ? '' : pathname}`;
+  const t = useTranslations('header');
+  const route = pathname.replace(/^\/(de|en|zh)(?=\/|$)/, '');
+  const localizedHref = (code: string) => `/${code}${route === '/' ? '' : route}`;
 
   const baseStyle = (active: boolean): CSSProperties => ({
     background:
@@ -36,7 +35,7 @@ export default function LanguageToggle({ scrolled = false }: { scrolled?: boolea
   });
 
   return (
-    <div className="flex items-center gap-2">
+    <nav aria-label={t('languagePicker')} className="flex items-center gap-0.5 sm:gap-2">
       {languages.map((lang) => (
         <a
           key={lang.code}
@@ -44,7 +43,7 @@ export default function LanguageToggle({ scrolled = false }: { scrolled?: boolea
           hrefLang={lang.code}
           lang={lang.code}
           aria-current={locale === lang.code ? 'true' : undefined}
-          className={`px-2 py-1 text-sm rounded transition-colors ${
+          className={`px-1.5 sm:px-2 py-2 text-xs sm:text-sm rounded transition-colors ${
             locale === lang.code ? 'font-medium' : ''
           } hover:bg-white/10`}
           style={baseStyle(locale === lang.code)}
@@ -52,6 +51,6 @@ export default function LanguageToggle({ scrolled = false }: { scrolled?: boolea
           {lang.name}
         </a>
       ))}
-    </div>
+    </nav>
   );
 }

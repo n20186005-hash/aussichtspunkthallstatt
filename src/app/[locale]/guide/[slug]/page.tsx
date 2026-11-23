@@ -9,6 +9,8 @@ import { detailsFor } from '@/lib/guideDetails';
 import { siteConfig } from '@/config';
 import { profiles } from '@/lib/guideEditorial';
 import { routing } from '@/i18n/routing';
+import NearbyAttractionGuide, { nearbyCopy } from '@/components/NearbyAttractionGuide';
+import { nearbyAttractions } from '@/lib/nearbyAttractions';
 import type { Locale, Loc } from '@/lib/guidePages';
 
 type Params = { params: Promise<{ locale: string; slug: string }> };
@@ -33,7 +35,8 @@ const visitInfoChip: Record<Locale, string> = {
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const { locale, slug } = await params;
-  const p = guidePages.find((x) => x.slug === slug);
+  const attraction = nearbyAttractions.find((place) => place.slug === slug);
+  const p = attraction ?? guidePages.find((x) => x.slug === slug);
   if (!p) return {};
   const title = p.title[locale as Locale] ?? p.title.en;
   const description = p.intro[locale as Locale] ?? p.intro.en;
@@ -54,6 +57,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
       description,
       url: self,
       type: 'article',
+      ...(attraction && { images: [`${baseUrl}/guide/nearby/${attraction.slug}.webp`] }),
       locale: htmlLangMap[locale] || 'en',
     },
   };
@@ -63,9 +67,11 @@ export default async function Article({ params }: Params) {
   const { locale, slug } = await params;
   if (!routing.locales.includes(locale as Locale)) notFound();
   setRequestLocale(locale);
+  const attraction = nearbyAttractions.find((place) => place.slug === slug);
+  if (attraction) return <NearbyAttractionGuide place={attraction} locale={locale as Locale} />;
   const p = guidePages.find((x) => x.slug === slug);
   if (!p) notFound();
-  const t = await getTranslations('guide');
+  const t = await getTranslations({ locale, namespace: 'guide' });
   const loc = locale as Locale;
 
   const detail = detailsFor(slug, p.category);
@@ -93,16 +99,16 @@ export default async function Article({ params }: Params) {
 
   return (
     <>
-      <Header />
+      <Header solid />
       <main style={{ color: 'var(--text-primary)' }}>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-        <div className="max-w-5xl mx-auto px-5 pt-10 pb-20">
+        <div className="max-w-5xl mx-auto px-5 pt-24 pb-20">
           <nav className="text-sm mb-8" style={{ color: 'var(--text-secondary)' }}>
             <Link href={`/${locale}`}>{t('breadcrumbHome')}</Link> /{' '}
             <Link href={`/${locale}/guide`}>{t('breadcrumbGuides')}</Link> / {pick(loc, p.kind)}
           </nav>
           <p className="uppercase tracking-widest text-sm mb-3" style={{ color: 'var(--accent)' }}>
-            {pick(loc, p.kind)} · Hallstatt, Austria
+            {pick(loc, p.kind)} · {regionText[loc]}
           </p>
           <h1 className="font-bold text-4xl md:text-5xl leading-tight max-w-4xl">{pick(loc, p.title)}</h1>
           <p className="text-lg leading-8 mt-6 mb-5 max-w-3xl" style={{ color: 'var(--text-secondary)' }}>
@@ -144,6 +150,7 @@ export default async function Article({ params }: Params) {
             </h2>
             <p className="leading-8 mb-4">{pick(loc, detail.history)}</p>
             <p className="leading-8 mb-4">{pick(loc, detail.architecture)}</p>
+            <h3 className="text-lg font-semibold mb-2">{nearbyCopy.contact[loc]}</h3>
             <p className="leading-8">{pick(loc, detail.management)}</p>
             {detail.source && (
               <a
@@ -185,6 +192,7 @@ export default async function Article({ params }: Params) {
                     [t('labelType'), pick(loc, p.kind)],
                     [t('labelRegion'), regionText[loc]],
                     [t('labelLocation'), pick(loc, profile.arrival)],
+                    [t('asideMapDest'), pick(loc, p.query)],
                     [t('labelTime'), pick(loc, profile.duration)],
                     [t('labelBestFor'), pick(loc, profile.suited)],
                   ].map(([label, value]) => (
@@ -232,6 +240,7 @@ export default async function Article({ params }: Params) {
                 <p>{pick(loc, profile.arrival)}.</p>
                 <h3 className="font-semibold mt-4">{t('publicTransport')}</h3>
                 <p>{t('publicTransportDesc')}</p>
+                <p className="mt-2">{nearbyCopy.rail[loc]} <a className="underline" href={t('sourceOebbUrl')}>{t('sourceOebbName')}</a></p>
                 <h3 className="font-semibold mt-4">{t('drivingParking')}</h3>
                 <p>{t('drivingParkingDesc')}</p>
               </section>
@@ -263,6 +272,10 @@ export default async function Article({ params }: Params) {
                 <p>{pick(loc, p.practical)}</p>
                 <h3 className="font-semibold mt-4">{t('faqQ5')}</h3>
                 <p>{pick(loc, detail.management)}</p>
+              </section>
+              <section>
+                <h2 className="text-2xl font-bold mb-3">{nearbyCopy.reviews[loc]}</h2>
+                <a className="underline" href={maps}>{nearbyCopy.readReviews[loc]}</a>
               </section>
               <section>
                 <h2 className="text-2xl font-bold mb-3">{t('sourcesTitle')}</h2>
