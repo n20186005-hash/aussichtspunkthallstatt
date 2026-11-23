@@ -169,8 +169,8 @@ export default async function Article({ params }: Params) {
             <div className="rounded-2xl p-6 border" style={{ borderColor: 'var(--border-color)' }}>
               <h2 className="text-xl font-bold mb-3">{t('threeHighlights')}</h2>
               <ul className="list-disc pl-5 leading-7">
-                {profile.features.map((f) => (
-                  <li key={f}>{pick(loc, f)}</li>
+                {profile.features.map((feature, index) => (
+                  <li key={index}>{pick(loc, feature)}</li>
                 ))}
               </ul>
             </div>
@@ -221,8 +221,8 @@ export default async function Article({ params }: Params) {
                 <h2 className="text-2xl font-bold mb-3">{t('routeTitle')}</h2>
                 <p>{pick(loc, p.route)}</p>
                 <ol className="list-decimal pl-6 mt-4 space-y-2">
-                  {profile.steps.map((step) => (
-                    <li key={step}>{pick(loc, step)}</li>
+                  {profile.steps.map((step, index) => (
+                    <li key={index}>{pick(loc, step)}</li>
                   ))}
                 </ol>
                 <p className="mt-3">{t('routeNote')}</p>
